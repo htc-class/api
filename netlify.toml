@@ -1,5 +1,6 @@
 [build]
-  functions = "functions/"
+  command = "npm run build"
+  functions = "built-functions/"
 
 [[redirects]]
   from = "/friends-library/*"
