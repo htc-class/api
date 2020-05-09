@@ -1,0 +1,13 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jared Henderson <jared@netrivet.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/netlify dev --functions ./functions"
+  },
+  "dependencies": {
+    "netlify-cli": "^2.50.0"
+  }
+}

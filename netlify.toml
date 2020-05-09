@@ -1,0 +1,7 @@
+[build]
+  functions = "functions/"
+
+[[redirects]]
+  from = "/friends-library/*"
+  to = "/.netlify/functions/friends-library/:splat"
+  status = 200

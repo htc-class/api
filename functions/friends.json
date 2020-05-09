@@ -1,0 +1,3801 @@
+{
+  "10648b95-063c-4d7f-a6a2-4cd3fd690196": {
+    "id": "10648b95-063c-4d7f-a6a2-4cd3fd690196",
+    "lang": "en",
+    "born": 1635,
+    "died": 1705,
+    "description": "Ambrose Rigge (1635-1705) was early convinced of the truth through the preaching of George Fox, and grew to be a powerful minister of the gospel, a faithful elder, and a great sufferer for the cause of Christ. In one of his letters, he writes, “I have been in eleven prisons in this county, one of which held me ten years, four months and upward, besides twice premunired, and once publicly lashed, and many other sufferings too long to relate here.” Yet through all he kept the faith, and served the Lord’s body even while in bonds, through letters and papers given to encourage and establish the flock. Ambrose Rigge was one of many in his generation who sold all to buy the Pearl of great price, and having found true treasure, he kept it till the end.",
+    "hasNonDraftDocument": true,
+    "name": "Ambrose Rigge",
+    "gender": "male",
+    "slug": "ambrose-rigge",
+    "path": "en/ambrose-rigge",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Rigge, Ambrose",
+    "residences": [
+      {
+        "city": "Bampton",
+        "region": "England"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Bampton",
+      "region": "England"
+    },
+    "added": "2018-08-09T19:47:41.000Z",
+    "documents": [
+      "6b0e134d-8d2e-48bc-8fa3-e8fc79793804"
+    ]
+  },
+  "92751523-7fb2-4614-93ce-2b007403a7ce": {
+    "id": "92751523-7fb2-4614-93ce-2b007403a7ce",
+    "lang": "en",
+    "born": 1809,
+    "died": 1891,
+    "description": "Ann Branson (1808-1891) was one of the very last, true ministers (having been prepared, called, and used of the Lord) in a greatly reduced and sadly degenerate Society. Her deepest cry to the Lord, from the days of her childhood, was that “His eye would not pity, nor His hand spare” till He had thoroughly cleansed her heart, and made her a useful vessel in His house. Humbling herself before God and men, she was exalted by the Lord as a powerful and prophetic minister, one of the few in her day who stood in the purity and power of the original Quakers, even while all around her the 200 year old lampstand of the Society of Friends slowly and tragically burned out.",
+    "hasNonDraftDocument": true,
+    "name": "Ann Branson",
+    "gender": "female",
+    "slug": "ann-branson",
+    "path": "en/ann-branson",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Branson, Ann",
+    "residences": [
+      {
+        "city": "Flushing",
+        "region": "Ohio"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Ann Branson",
+        "text": "Dearest Lord, remember my affliction, and enable me to say in deed and in truth, Your kingdom come, Your will be done in me, and by me, and through me, unworthy worm as I am. Oh let not Your hand spare, nor Your eye pity me, until You cause me to surrender my will in all things unto Your holy will!"
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "0451a301-8654-42e3-8701-6288579e5bbb",
+        "description": "In contending earnestly for the faith once delivered to the saints, Ann Branson found a true friend and fellow-laborer in Joseph Edgerton, whose journal contains many letters addressed to her, and several references to the value of her ministry in that day."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Flushing",
+      "region": "Ohio"
+    },
+    "added": "2018-09-03T20:49:11.000Z",
+    "documents": [
+      "841500ef-cd48-4a42-8bd4-90ee841d19b4"
+    ]
+  },
+  "1da97dc1-d7d9-4bf6-a81c-ea1b638dbc20": {
+    "id": "1da97dc1-d7d9-4bf6-a81c-ea1b638dbc20",
+    "lang": "en",
+    "born": 1765,
+    "died": 1826,
+    "description": "TODO",
+    "hasNonDraftDocument": false,
+    "name": "Ann Crowley",
+    "gender": "female",
+    "slug": "ann-crowley",
+    "path": "en/ann-crowley",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Crowley, Ann",
+    "residences": [
+      {
+        "city": "Shillingford",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1765,
+            "end": 1795
+          }
+        ]
+      },
+      {
+        "city": "Uxbridge",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1795,
+            "end": 1826
+          }
+        ]
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Uxbridge",
+      "region": "England",
+      "durations": [
+        {
+          "start": 1795,
+          "end": 1826
+        }
+      ]
+    },
+    "added": "2020-04-27T17:17:09.161Z",
+    "documents": [
+      "025ae678-5e76-4128-9b59-b0761a7cb9d1"
+    ]
+  },
+  "d0348949-78b6-4c14-932f-93e6d7825607": {
+    "id": "d0348949-78b6-4c14-932f-93e6d7825607",
+    "lang": "en",
+    "born": 1727,
+    "died": 1794,
+    "description": "Catherine Payton (1727-1794 — also known by her married name, Catherine Phillips) was an eminently gifted minister in the Society of Friends, who traveled almost continually for forty years in the service of Truth throughout England, Ireland, and North America. Her journal and letters clearly demonstrate a life entirely surrendered to the cross of Christ, a mind supplied with wisdom and utterance from on high, and a heart filled with love for God and for mankind.",
+    "hasNonDraftDocument": true,
+    "name": "Catherine Payton",
+    "gender": "female",
+    "slug": "catherine-payton",
+    "path": "en/catherine-payton",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Payton, Catherine",
+    "residences": [
+      {
+        "city": "Dudley",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Sarah R. Grubb",
+        "text": "About two years ago, to my humble admiration, in a season of great proving of spirit it was so renewed and sealed to me (the inward attraction being so strong, and the evidence so undoubtable) that [Catherine Payton] was a faithful follower of the Lamb; for a language sweetly flowed through my mind, “I have chosen her and she is mine”—so that I not only rejoiced, but was strengthened."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "53f21a86-f264-460f-b879-3cd4a7ddf615",
+        "description": "For many years an intimate friendship and frequent correspondence was maintained between Samuel Fothergill and Catherine Payton. The Life of Samuel Fothergill contains numerous letters to and from Payton, as well as accounts of several experiences together in the work on the ministry."
+      },
+      {
+        "id": "9bd10df3-80aa-4623-b66a-61e00f112b47",
+        "description": "Until her death in 1757, Mary Peisley (Neale) was a frequent traveling companion of Catherine Payton, and perhaps her most intimate friend in the work of the ministry."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Dudley",
+      "region": "England"
+    },
+    "added": "2018-09-03T20:49:44.000Z",
+    "documents": [
+      "0e7ca047-14ff-4883-8977-877d36632d11",
+      "08b94a0b-b96f-4525-bd46-79b0d60c4302"
+    ]
+  },
+  "593f481a-d4e7-4fe0-8126-33d408baa19f": {
+    "id": "593f481a-d4e7-4fe0-8126-33d408baa19f",
+    "lang": "en",
+    "born": 1637,
+    "died": 1698,
+    "description": "Charles Marshall (1637-1698) was convinced of the Truth at age seventeen by the powerful ministry of John Audland and John Camm, and eventually became a worthy minister and elder himself in the early Society of Friends. This short but instructive journal describes Marshall’s progressive experience of the light of Jesus Christ, both as his judge and teacher, and also uncovers the several snares and temptations of the enemy that he met with and overcame along the way.",
+    "hasNonDraftDocument": true,
+    "name": "Charles Marshall",
+    "gender": "male",
+    "slug": "charles-marshall",
+    "path": "en/charles-marshall",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Marshall, Charles",
+    "residences": [
+      {
+        "city": "Bristol",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Charles Marshall",
+        "text": "I have learned from the beginning of the work of restoration and redemption, that everyone’s preservation is found in pure inward retiredness unto the Lord; and in His pure fear, awe and dread to keep low, feeling after His soul-redeeming, soul-preserving, holy power, which quickens and enlivens; and as it is abode with and in, keeps alive in its own pure nature and quality, over the world, its spirit and defilement."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Bristol",
+      "region": "England"
+    },
+    "added": "2018-09-05T17:58:49.000Z",
+    "documents": [
+      "8efe55b2-00e9-432b-853f-fc5f3cb8deaf",
+      "9ac03f31-dba4-4723-a8cd-4a67bde65757",
+      "769b12e4-b909-4fb0-9177-b74a1bef9f35"
+    ]
+  },
+  "16340b4d-217f-4256-a35a-83e36a315986": {
+    "id": "16340b4d-217f-4256-a35a-83e36a315986",
+    "lang": "en",
+    "born": 1777,
+    "died": 1851,
+    "description": "Christopher Healy (1773-1851) joined the Society of Friends when 19 years old, and being faithful in the “day of small things,” grew strong in the grace of God and in the knowledge of Jesus Christ. He became an eminent minister of the gospel during the sad time of declension and division in the mid 1800’s. When many nominal Quakers were departing to the right and to the left, Christopher Healy was among the few who kept to the ancient path and “contended earnestly for the faith which was once for all delivered to the saints.”",
+    "hasNonDraftDocument": true,
+    "name": "Christopher Healy",
+    "gender": "male",
+    "slug": "christopher-healy",
+    "path": "en/christopher-healy",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Healy, Christopher",
+    "residences": [
+      {
+        "city": "Bucks County",
+        "region": "Pennsylvania"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Bucks County",
+      "region": "Pennsylvania"
+    },
+    "added": "2018-09-06T16:18:27.000Z",
+    "documents": [
+      "ede0dbbf-d031-4180-9ee5-e78641be72cd"
+    ]
+  },
+  "515aac77-35be-4270-a803-9e5418a60e24": {
+    "id": "515aac77-35be-4270-a803-9e5418a60e24",
+    "lang": "en",
+    "born": 1648,
+    "died": 1720,
+    "description": "Christopher Story (1648-1720) was inclined to piety from his youth. But when the Lord was pleased to open his understanding, he saw that his former religious building must be entirely thrown down, having not been built upon the true foundation. Being awakened to see something of the “exceeding sinfulness” of sin, he willingly bowed under the yoke of Christ, took up his daily cross, and thereby became a disciple and follower of Him. In time, he was endued with a large gift in the ministry which, though simple, was powerful and edifying, and was said to “often fall upon the people of God like a sweet shower upon the tender grass.”",
+    "hasNonDraftDocument": true,
+    "name": "Christopher Story",
+    "gender": "male",
+    "slug": "christopher-story",
+    "path": "en/christopher-story",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Story, Christopher",
+    "residences": [
+      {
+        "city": "Carlisle",
+        "region": "England"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Carlisle",
+      "region": "England"
+    },
+    "added": "2019-09-24T22:43:50.000Z",
+    "documents": [
+      "843e3d87-d877-432c-a54e-fbe7996022a8"
+    ]
+  },
+  "3459c505-19f0-4a35-8bb1-44d75647566b": {
+    "id": "3459c505-19f0-4a35-8bb1-44d75647566b",
+    "lang": "en",
+    "born": 1708,
+    "died": 1790,
+    "description": "TODO",
+    "hasNonDraftDocument": false,
+    "name": "Daniel Stanton",
+    "gender": "male",
+    "slug": "daniel-stanton",
+    "path": "en/daniel-stanton",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Stanton, Daniel",
+    "residences": [
+      {
+        "city": "Philadelphia",
+        "region": "Pennsylvania"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Philadelphia",
+      "region": "Pennsylvania"
+    },
+    "added": "2020-04-28T20:45:08.000Z",
+    "documents": [
+      "9811730b-0a00-4dea-b01f-c676df865802"
+    ]
+  },
+  "e1eb432b-6ae5-4968-89e4-91af5b40bb17": {
+    "id": "e1eb432b-6ae5-4968-89e4-91af5b40bb17",
+    "lang": "en",
+    "born": 1771,
+    "died": 1840,
+    "description": "The life of Daniel Wheeler (1771-1840) is a monument to the heart purifying power of the gospel of Jesus Christ. Left an orphan at a very young age, Wheeler was placed by a friend of the family as an apprentice on a sailing vessel where, along with learning sailing and navigation, he became acquainted with every form of vice and immorality. After six years in the navy, and another seven years in the army, the Lord made use of a hurricane at sea to awaken him to his lost condition. Being mercifully enabled to repent, and also to see the “entire spirituality of the Gospel dispensation,” he soon left the army and joined the Society of Friends in London. His growth in grace was quick and steady, and after some years he became a minister of great esteem. When Emperor Alexander I of Russia requested the assistance of a Quaker farmer from England, Wheeler moved his family to near St. Petersburg, where they lived for a number of lonely but heart-purifying years. Afterwards, he was led by the Lord to preach the gospel of Christ in a multitude of islands in the South Pacific Ocean.",
+    "hasNonDraftDocument": true,
+    "name": "Daniel Wheeler",
+    "gender": "male",
+    "slug": "daniel-wheeler",
+    "path": "en/daniel-wheeler",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Wheeler, Daniel",
+    "residences": [
+      {
+        "city": "Sheffield",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1796,
+            "end": 1818
+          }
+        ]
+      },
+      {
+        "city": "St. Petersburg",
+        "region": "Russia",
+        "durations": [
+          {
+            "start": 1818,
+            "end": 1832
+          }
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Sarah Lynes Grubb",
+        "text": "We found [Daniel Wheeler’s] conversation truly edifying and interesting. He was all resignation under his trials&hellip; That which dropped from his own lips was heart-tendering, and abundantly satisfying. Oh! the dear servant of the Lord! He is as humble as a child; while capable of ascribing glory, and power, and dominion to the Lord God, and the Lamb that sitteth upon the throne."
+      },
+      {
+        "source": "Rebecca Hubbs",
+        "text": "Daniel Wheeler had an excellent communication, in the course of which he said, “I have left all that is nearest and dearest to me in this world, to come among you, and willingly would I travel from east to west, and from north to south, old and gray-headed as I am, if I might be made instrumental in turning any of my fellow-mortals to the love of God.”"
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "9511ab72-9a2e-4c6e-a102-1f46aebbd348",
+        "description": "In 1824, Thomas Shillitoe went to St. Petersburg, Russia, and frequently attended the small meeting held in the home of his beloved friend Daniel Wheeler. After speaking with the emperor on more than one occasion, and surviving the historic flood of St. Petersburg that year, he and Daniel Wheeler traveled by land 1600 miles to Rotterdam, Holland."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Sheffield",
+      "region": "England",
+      "durations": [
+        {
+          "start": 1796,
+          "end": 1818
+        }
+      ]
+    },
+    "added": "2018-09-08T22:35:12.000Z",
+    "documents": [
+      "3c1f4d2b-cefb-4a8f-a0aa-ad9de657b15f"
+    ]
+  },
+  "373fe3ce-7971-4241-8124-74efad870ad2": {
+    "id": "373fe3ce-7971-4241-8124-74efad870ad2",
+    "lang": "en",
+    "born": 1707,
+    "died": 1779,
+    "description": "David Ferris (1707-1779) was favored as a young child with a merciful visitation of the Lord whereby he was called out of the vanities of the world and enabled to see through the empty forms and superstitions of man-made religion. He was brought up a Presbyterian and educated in their way, but by attending to the inward teachings of divine grace, he became convinced of the principles of Friends (having no outward knowledge of their doctrines or practices). Being timid and diffident by nature, he resisted the Lord’s call to ministry for many years, but at length gave up to preach the gospel and travel in the Lord’s service.",
+    "hasNonDraftDocument": true,
+    "name": "David Ferris",
+    "gender": "male",
+    "slug": "david-ferris",
+    "path": "en/david-ferris",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Ferris, David",
+    "residences": [
+      {
+        "city": "Wilmington",
+        "region": "Delaware"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Samuel Neale",
+        "text": "David Ferris was with me in this journey oftentimes in cold weather, close exercise, and hard travelling; and his company was helpful as well as agreeable, he being a lover of Truth and its testimony."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "c3428a4c-4a2f-480b-8612-f96e104914dd",
+        "description": "For about ten months of Samuel Neale’s lengthy visit to the American colonies, he had the agreeable company of David Ferris as a fellow-minister and traveling companion. Together they labored in the Lord’s vineyard among churches in Maryland, New Jersey, Rhode Island, and Pennsylvania."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Wilmington",
+      "region": "Delaware"
+    },
+    "added": "2018-09-06T19:13:59.000Z",
+    "documents": [
+      "ad6a0837-7797-4c6c-a641-bfb722bedf21"
+    ]
+  },
+  "a0b9e8ae-f6af-4e12-a0b0-381a84387780": {
+    "id": "a0b9e8ae-f6af-4e12-a0b0-381a84387780",
+    "lang": "en",
+    "born": 1745,
+    "died": 1816,
+    "description": "David Sands (1745-1816) was an active and influential minister in the Society of Friends at a time when the minds of many Friends (particularly in Ireland) had been led astray from the simplicity and purity of devotion to Christ. Originally from Long Island, Sands labored extensively throughout New England, and also made a lengthy trip to Europe where he preached the gospel in England, Ireland, France, Germany, and several other parts of the continent. His life was fraught with many deep conflicts, difficulties, and opposition, but he remained a faithful pillar in the church, and an example of humility and self-denial, in the midst of a much deteriorated Society.",
+    "hasNonDraftDocument": true,
+    "name": "David Sands",
+    "gender": "male",
+    "slug": "david-sands",
+    "path": "en/david-sands",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Sands, David",
+    "residences": [
+      {
+        "city": "Cornwall",
+        "region": "New York"
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "25755480-7f1c-4f7f-8900-3f472001fae4",
+        "description": "In 1796, William Savery and David Sands travelled together in the work of the ministry through Holland, Germany, France, and several other parts of Europe. In France, the two of them had an unexpected encounter with the notorious Thomas Paine, and ably defended the gospel against his “passionate railing.”"
+      }
+    ],
+    "primaryResidence": {
+      "city": "Cornwall",
+      "region": "New York"
+    },
+    "added": "2018-09-06T20:45:08.000Z",
+    "documents": [
+      "052ac10e-2c75-42c5-aa35-f38f34aa1214"
+    ]
+  },
+  "130d2247-914f-4301-8f69-26ede577b7c0": {
+    "id": "130d2247-914f-4301-8f69-26ede577b7c0",
+    "lang": "en",
+    "born": 1689,
+    "died": 1738,
+    "description": "Deborah Bell (1689-1738) was called to preach the everlasting gospel when only nineteen years old, and being faithful in little, she ​grew quickly ​both in​ the knowledge​ and experience​ of God​. Many who were unacquainted with the work of the Spirit of Truth in themselves, were reached​ and awakened​ by her powerful and liv​ing​ ministry​.​ She labored faithfully in word and doctrine,​ visiting many of the meetings of Friends in most parts of England, Wales, Scotland, and Ireland.",
+    "hasNonDraftDocument": true,
+    "name": "Deborah Bell",
+    "gender": "female",
+    "slug": "deborah-bell",
+    "path": "en/deborah-bell",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Bell, Deborah",
+    "residences": [
+      {
+        "city": "Bromley",
+        "region": "England"
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "f9356ff3-a098-45b1-9ed2-022790240c01",
+        "description": "Towards the end of his life, the valuable elder Joseph Pike maintained an ongoing written correspondence with Deborah Bell, finding in her one who rightly discerned the condition of the church, and shared his burden to see all believers walk in a way that adorned the gospel of Christ."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Bromley",
+      "region": "England"
+    },
+    "added": "2018-09-09T18:30:49.000Z",
+    "documents": [
+      "14f4fcbb-1027-4364-977e-5a2aba92a827"
+    ]
+  },
+  "2397ed74-df56-4c3d-8844-3b327bc2982f": {
+    "id": "2397ed74-df56-4c3d-8844-3b327bc2982f",
+    "lang": "en",
+    "born": 1634,
+    "died": 1706,
+    "description": "Elizabeth Stirredge (1634-1706) was not a traveling minister in the Society of Friends. She was a wife, a mother, and an extraordinary woman of God. This short but fascinating account of her life was written in the 56th year of her age for the benefit of her children and grandchildren. In it she describes her desperate search for the Lord in her younger days, her discovery of the Truth as it is in Jesus, and many of the trials, persecutions, and deliverances she met with in the way, as she took up the daily cross and faithfully followed her Lord.",
+    "hasNonDraftDocument": true,
+    "name": "Elizabeth Stirredge",
+    "gender": "female",
+    "slug": "elizabeth-stirredge",
+    "path": "en/elizabeth-stirredge",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Stirredge, Elizabeth",
+    "residences": [
+      {
+        "city": "Hemel Hempstead",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "John Neale",
+        "text": "Much might be said concerning our friend [Elizabeth Stirredge]. She was a valiant woman for truth on earth, a mother in Israel, and a worthy faithful elder in the church of Christ in her time."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Hemel Hempstead",
+      "region": "England"
+    },
+    "added": "2018-09-10T15:42:35.000Z",
+    "documents": [
+      "492a89d4-0f81-490a-9619-b3a390d51307",
+      "e27bc78c-ab04-4020-8c9f-9f1eed4f98e2"
+    ]
+  },
+  "920c904b-24e0-4e1c-9542-3a89cd97affe": {
+    "id": "920c904b-24e0-4e1c-9542-3a89cd97affe",
+    "lang": "en",
+    "born": 1749,
+    "died": 1817,
+    "description": "After a marriage of seventeen years, Elizabeth Ussher (1749-1817) was left a widow, and soon after deprived of her two eldest sons by death on a foreign shore. Under the weight of these trials, she and her four remaining daughters were powerfully awakened to the cost of true discipleship and convinced of the principles professed by Friends. But in the two years immediately following this great change, Elizabeth had to endure the death of all four of her daughters by consumption. The letters of these extraordinary and pious young women, written during the last few years of their short lives, were collected and published by their mother after their decease.",
+    "hasNonDraftDocument": true,
+    "name": "Elizabeth Ussher",
+    "gender": "female",
+    "slug": "elizabeth-ussher",
+    "path": "en/elizabeth-ussher",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Ussher, Elizabeth",
+    "residences": [
+      {
+        "city": "Waterford",
+        "region": "Ireland"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "William Savery",
+        "text": "I visited Elizabeth Ussher, and found her in much Christian resignation to the will of the Lord, though her third lovely daughter was to be buried today; having lost two others in a consumption, and a son in another way, within twelve months; her father at this time lying a corpse, and her fourth and last daughter likely very soon to follow her sisters in the same disease. Her state of mind, as well as that of her dear remaining daughter, was truly instructive to me."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "25755480-7f1c-4f7f-8900-3f472001fae4",
+        "description": "During his travels in the work of the ministry, William Savery spent many months in Ireland, and on several occasions very favorably mentions his encounters with Elizabeth Ussher and her “excellent daughters.” He was present at (or very near) the death of Judith Ussher, and remarked that “all felt like peace around her bed.”"
+      },
+      {
+        "id": "468770bf-aae5-4c4a-a2b3-41d978f3dd72",
+        "description": "Mary Dudley was one of the ministers in the Society of Friends who befriended and ministered to Elizabeth Ussher at a time when she was grieving the death of her husband and sons, and seriously enquiring after the way of life and peace."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Waterford",
+      "region": "Ireland"
+    },
+    "added": "2019-11-25T15:48:32.000Z",
+    "documents": [
+      "4cde3c89-ab46-4f03-9346-5608a58e8393"
+    ]
+  },
+  "826a979f-3e51-48cc-8399-4be3ac1a94c1": {
+    "id": "826a979f-3e51-48cc-8399-4be3ac1a94c1",
+    "lang": "en",
+    "born": 1663,
+    "died": 1726,
+    "description": "Elizabeth Webb (1663-1726) was an early minister in the Society of Friends who travelled extensively in her service for the gospel. In the year 1712, while ministering in London, she became acquainted with Anthony William Boehm, then chaplain to Prince George of Denmark. At some point following their initial interview, Elizabeth Webb felt constrained in the love of God to write to Boehm and present him with the deeply instructive letter contained in this booklet, giving something of a summary of her spiritual pilgrimage.",
+    "hasNonDraftDocument": true,
+    "name": "Elizabeth Webb",
+    "gender": "female",
+    "slug": "elizabeth-webb",
+    "path": "en/elizabeth-webb",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Webb, Elizabeth",
+    "residences": [
+      {
+        "city": "Gloucester",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1663,
+            "end": 1700
+          }
+        ]
+      },
+      {
+        "city": "Philadelphia",
+        "region": "Pennsylvania",
+        "durations": [
+          {
+            "start": 1700,
+            "end": 1726
+          }
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "source": "John Richardson",
+        "text": "Sometimes I fell into company with Elizabeth Webb and Sarah Clement, who were virtuous women, and lived near the kingdom, and were of good service in their travels, and grew in the Truth, of which, while with them, I was sensible."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Philadelphia",
+      "region": "Pennsylvania",
+      "durations": [
+        {
+          "start": 1700,
+          "end": 1726
+        }
+      ]
+    },
+    "added": "2018-09-10T15:54:31.000Z",
+    "documents": [
+      "a52eb875-8a1a-4f2f-b1b4-650eb3af1126"
+    ]
+  },
+  "311c83ee-2bb9-40fb-9ff5-6e34ea088ac7": {
+    "id": "311c83ee-2bb9-40fb-9ff5-6e34ea088ac7",
+    "lang": "en",
+    "born": 1618,
+    "died": 1669,
+    "description": "Francis Howgill (1618-1669), received a university education to become a minister in the Episcopal church. However, being dissatisfied with the superstition which he saw remaining in it, he soon left it, joining himself to the Independents, and then to the Anabaptists, desperately seeking the true spiritual life that his soul thirsted after. At length, being mightily affected by the ministry of George Fox, he joined the persecuted society called Quakers, among whom he became a widely respected member and evangelist. He died in prison for his testimony to the truth, leaving behind many influential books and letters.",
+    "hasNonDraftDocument": true,
+    "name": "Francis Howgill",
+    "gender": "male",
+    "slug": "francis-howgill",
+    "path": "en/francis-howgill",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Howgill, Francis",
+    "residences": [
+      {
+        "city": "Sedbergh",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Francis Howgill",
+        "text": "I have sought the way of the Lord from a child, and lived innocently as among men; and if any inquire concerning my latter end, let them know that I die in the faith in which I lived, and suffered for."
+      },
+      {
+        "source": "George Fox",
+        "text": "And though his blood does cry out for vengeance, yet he could say “the Lord forgive all my persecutors;” for having the mind of Christ, he desired the good of all, yes even the worst of his enemies, and in that desire for the good of all he did labor and travail, seeking their good and their eternal welfare in the inheritance of life."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Sedbergh",
+      "region": "England"
+    },
+    "added": "2018-09-10T17:54:55.000Z",
+    "documents": [
+      "fa1addc4-a434-48da-8d82-bbb1db322151"
+    ]
+  },
+  "5653f1ac-cc1a-4bc7-83ea-6923c783605c": {
+    "id": "5653f1ac-cc1a-4bc7-83ea-6923c783605c",
+    "lang": "en",
+    "born": 1624,
+    "died": 1691,
+    "description": "George Fox (1624-1691) is generally considered the founder of the Society of Friends (Quakers). As a young man, Fox could find no rest in the lifeless, outward Christianity of his day, seeing clearly that most believers professed far more than they truly possessed. This journal tells the story of his desperate search for the Truth, his discovery of a Christianity that stands in the life and light of Jesus Christ, and the ensuing fifty years of powerful ministry that turned the world upside down. This is the complete and unabridged Journal of George Fox, originally compiled and edited by Thomas Ellwood in 1694, and later divided into chapters, and supplied with numerous historical and biographical notes by William Armistead in 1852.",
+    "hasNonDraftDocument": true,
+    "name": "George Fox",
+    "gender": "male",
+    "slug": "george-fox",
+    "path": "en/george-fox",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Fox, George",
+    "residences": [
+      {
+        "city": "Leicester",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Thomas Ellwood",
+        "text": "He was valiant for the truth, bold in asserting it, patient in suffering for it, unwearied in labouring in it, steady in his testimony to it; immovable as a rock. Deep he was in divine knowledge, clear in opening heavenly mysteries, plain and powerful in preaching, fervent in prayer. He was richly endued with heavenly wisdom, quick in discerning, sound in judgment, able and ready in giving, discreet in keeping counsel; a lover of righteousness, an encourager of virtue, justice, temperance, meekness, purity, chastity, modesty, humility, charity, and self-denial in all, both by word and example."
+      },
+      {
+        "source": "William Penn",
+        "text": "But above all he excelled in prayer. The inwardness and weight of his spirit, the reverence and solemnity of his address and behavior, and the fewness and fulness of his words, have often struck even strangers with admiration, as they often reached others with consolation. The most awesome, living, reverent frame I ever felt or beheld, I must say, was his in prayer. And truly it was a testimony that he knew and lived nearer to the Lord than other men; for they that know Him most, see most reason to approach him with reverence and fear."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "92d2a0ab-55d5-4fc1-aaf6-f003b172898d",
+        "description": "In her book The Lives and Persecutions of the Primitive Quakers, Mary Ann Kelty recounts the first dealings of the Lord with the young George Fox, and faithfully describes how God made use of this unschooled man to gather together a society of Christians that exemplified true “obedience of faith.”"
+      },
+      {
+        "id": "a1b1457c-3678-4659-916d-c7b66e465b7e",
+        "description": "In Primitive Christianity Revived, William Penn relates the rise, progress, and principle doctrines of the people called Quakers, and also declares (from “his own long and most inward acquaintance and intimate knowledge of him”) the many excellent qualifications that God bestowed on George Fox."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Leicester",
+      "region": "England"
+    },
+    "added": "2018-09-17T18:35:07.000Z",
+    "documents": [
+      "dcf39e10-9eaf-4878-98de-380b531fc2ee",
+      "e5a1ecfb-4f0a-4c71-80bf-3ee924d0f46c"
+    ]
+  },
+  "c7431c80-8321-4e4e-93a9-5e91993deabc": {
+    "id": "c7431c80-8321-4e4e-93a9-5e91993deabc",
+    "lang": "en",
+    "born": 1636,
+    "died": 1723,
+    "description": "George Whitehead (1636-1723) was one of the most well-known and influential ministers among the early Quakers. He was convinced of the Truth when only 17 years old, and through faithfulness grew quickly in the life and power of the gospel. Though publicly whipped, imprisoned multiple times, frequently abused and persecuted, he kept close to the cross, and came to be a pillar and elder in the church of God, constantly laboring for the advancement of Truth and the welfare of the Society.",
+    "hasNonDraftDocument": true,
+    "name": "George Whitehead",
+    "gender": "male",
+    "slug": "george-whitehead",
+    "path": "en/george-whitehead",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Whitehead, George",
+    "residences": [
+      {
+        "city": "Sedbergh",
+        "region": "England"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Sedbergh",
+      "region": "England"
+    },
+    "added": "2018-09-17T20:01:46.000Z",
+    "documents": [
+      "1003add3-09be-4deb-8476-8a2be7c34405",
+      "eca687be-9a29-49d3-8394-2ed21b85f9a3"
+    ]
+  },
+  "7887c42e-68da-4404-ad28-b514c8478833": {
+    "id": "7887c42e-68da-4404-ad28-b514c8478833",
+    "lang": "en",
+    "born": 1626,
+    "died": 1705,
+    "description": "TODO",
+    "hasNonDraftDocument": false,
+    "name": "Gilbert Latey",
+    "gender": "male",
+    "slug": "gilbert-latey",
+    "path": "en/gilbert-latey",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Latey, Gilbert",
+    "residences": [
+      {
+        "city": "London",
+        "region": "England"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "London",
+      "region": "England"
+    },
+    "added": "2020-04-28T20:45:08.000Z",
+    "documents": [
+      "c43536d9-7992-4e18-9aea-9e51a5b93802"
+    ]
+  },
+  "6fc62584-d80d-44a9-8115-b09771517fb8": {
+    "id": "6fc62584-d80d-44a9-8115-b09771517fb8",
+    "lang": "en",
+    "born": 1771,
+    "died": 1868,
+    "description": "Hannah Gibbons (1771-1868) was a meek but truly living minister in the later period of the Society of Friends. Though she forever maintained a low view of herself and her spiritual attainments, she was considered by all to be a pillar in church, traveling in the capacity of a minister well into her eighties, and often being led of the Lord, in old age, to visit hardened prisoners who were condemned to death. She remained spiritually green and fruitful to the very end of her life, and died with a heart full of life, wisdom, and deep spiritual experience at 97 years of age.",
+    "hasNonDraftDocument": true,
+    "name": "Hannah Gibbons",
+    "gender": "female",
+    "slug": "hannah-gibbons",
+    "path": "en/hannah-gibbons",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Gibbons, Hannah",
+    "residences": [
+      {
+        "city": "Philadelphia",
+        "region": "Pennsylvania"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "William Evans",
+        "text": "The faculties of our aged friend [Hannah Gibbons, at 81 years of age] are remarkably preserved; the staidness and solidity of her spirit are peculiar, and the constant exercise of her mind, trained in the school of Christ and ornamented with the garment of humility, makes her a striking example; showing the efficacy of Divine grace, and the fruits of long dedication to her Lord in the path of self-denial and daily watchfulness unto prayer. We felt nearly united to her, and esteemed it a favor to have such a pillar and watch-woman continued in the militant church, to so late a period of life."
+      },
+      {
+        "source": "Ann Branson",
+        "text": "On the day following, we visited dear Hannah Gibbons, who was in her ninety-fifth year. Truly it was a strengthening, encouraging visit to my mind. She was lively and green in old age, remembered her visit to Ohio made in her eightieth year, and could recollect much that was said and done in our Yearly Meeting at that time."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "bd22a3f4-51e1-45a5-9b65-2f0b21bde039",
+        "description": "On many occasions throughout his journal, William Evans mentions his great respect and loving regard for that “mother in our Israel”, Hannah Gibbons. A letter of hers was included by Evans in his journal, which appears to have been a great source of encouragement to him during a difficult time."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Philadelphia",
+      "region": "Pennsylvania"
+    },
+    "added": "2019-06-17T18:23:10.000Z",
+    "documents": [
+      "35cd4c65-ea35-418d-a146-5bc3e5559247"
+    ]
+  },
+  "5ad0539b-cbaf-454f-86de-84f352ee8807": {
+    "id": "5ad0539b-cbaf-454f-86de-84f352ee8807",
+    "lang": "en",
+    "born": 1765,
+    "died": 1834,
+    "description": "Henry Hull (1765-1834) loved the Lord from a young age and desired to serve Him, but being diffident and shy by nature, was unwilling to give up to a call to the ministry until a voice sounded in the ear of his understanding, saying, “You are in great danger of being lost in your rebellion.” At that moment, Henry put his hand to the plow and never looked back, saying, “Lord, do what You will with me, come life or death, I will give up all for Your sake.” He travelled much in the ministry in different parts of the United States, Canada, Ireland, and England, and though he met with a severe trial in the loss of his wife, son, and mother to a malignant fever, he was nevertheless enabled to say, “Though He slay me, yet I will trust in Him. It is the Lord, let Him do what seems good to Him.”",
+    "hasNonDraftDocument": true,
+    "name": "Henry Hull",
+    "gender": "male",
+    "slug": "henry-hull",
+    "path": "en/henry-hull",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Hull, Henry",
+    "residences": [
+      {
+        "city": "Stanford",
+        "region": "New York"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Stanford",
+      "region": "New York"
+    },
+    "added": "2018-09-17T20:46:21.000Z",
+    "documents": [
+      "c9d8a647-792f-47c2-a0c5-4ba8773d5cc6"
+    ]
+  },
+  "0f82b284-e156-4523-a9a1-7ddf8993bd63": {
+    "id": "0f82b284-e156-4523-a9a1-7ddf8993bd63",
+    "lang": "en",
+    "died": 1713,
+    "description": "Apart from the fact that he worked as a schoolmaster in Bristol, and died in the year 1713, virtually nothing is known about the life of Hugh Turford. However, his little book “Walk in the Spirit,” first published in 1702 (but having been reprinted in twenty-eight English editions, and translated into French, Spanish, Italian, German, and Danish) is considered by many to be among the most influential of all early Quaker writings.",
+    "hasNonDraftDocument": true,
+    "name": "Hugh Turford",
+    "gender": "male",
+    "slug": "hugh-turford",
+    "path": "en/hugh-turford",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Turford, Hugh",
+    "residences": [
+      {
+        "city": "Bristol",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Hugh Turford",
+        "text": "Ever since men came to be persuaded that though they sow tares, they shall still reap wheat, and though they go down to the grave sinners, they shall still rise saints, and attain in another world what the primitive Christians attained in this world; since then, I say, the citizenship of Christians has not been in heaven, but in the earth. They have walked in darkness and not in the light."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Bristol",
+      "region": "England"
+    },
+    "added": "2019-05-10T14:01:29.000Z",
+    "documents": [
+      "9333dd0a-d92b-401e-a086-f611cc20f984"
+    ]
+  },
+  "cac1edcf-7213-4a7a-92d6-e4f6faab6ff9": {
+    "id": "cac1edcf-7213-4a7a-92d6-e4f6faab6ff9",
+    "lang": "en",
+    "born": 1758,
+    "died": 1828,
+    "description": "​Isaac Martin (1758-1828) was a sweet-spirited minister in the Society of Friends. Having fallen from a two-story window ​and cracked his skull when a small child, he suffered agonizing pain in his head and eye for the great majority of his life. But despite his frequent ailments, he submitted whole-heartedly to Christ’s baptism of Spirit and fire, and became an effective minister who depended entirely upon the power and direction of the Holy Spirit. On this subject he once wrote - “Unless I had felt ​the Lord’s​ blessed presence to strengthen and qualify me, I would rather have laid down my life, than have attempted to minister to the people by virtue of any ​knowledge or ability, natural or acquired, which, as a man, I might possess.​”​",
+    "hasNonDraftDocument": true,
+    "name": "Isaac Martin",
+    "gender": "male",
+    "slug": "isaac-martin",
+    "path": "en/isaac-martin",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Martin, Isaac",
+    "residences": [
+      {
+        "city": "Rahway",
+        "region": "New Jersey"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Isaac Martin",
+        "text": "Preaching, under the influence of the Holy Spirit, is good, and is a blessing to the church; but, I am persuaded, that if people generally were disposed to receive strength from the pure Fountain of everlasting love opened in their own hearts, there would be but little necessity for it."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Rahway",
+      "region": "New Jersey"
+    },
+    "added": "2018-09-18T16:01:31.000Z",
+    "documents": [
+      "bed1a75e-bf7c-4bb4-9a84-1e6c908f6011"
+    ]
+  },
+  "88567a38-31e9-4bf0-8669-61355d8307d1": {
+    "id": "88567a38-31e9-4bf0-8669-61355d8307d1",
+    "lang": "en",
+    "born": 1616,
+    "died": 1679,
+    "description": "Isaac Penington (1616-1679) was the son of a prominent English politician, and the father-in-law of William Penn, founder of Pennsylvania. Though born into a family of wealth and reputation, Penington’s heart was set upon things above from his earliest days. Even as a child, he recognized that the religion of his day stood in the will and understanding of man, in outward practices, duties, and scriptural truths that were professed but not truly possessed. Isaac Penington longed for more. Motivated by an insatiable hunger for truth, he sought the Lord with all his heart and discovered a Christianity that stood in, and flowed out from, the light and life of Jesus Christ reigning in the inner man.",
+    "hasNonDraftDocument": true,
+    "name": "Isaac Penington",
+    "gender": "male",
+    "slug": "isaac-penington",
+    "path": "en/isaac-penington",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Penington, Isaac",
+    "residences": [
+      {
+        "city": "Jordans",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "William Penn",
+        "text": "I may say [Isaac Penington] was one in a thousand; zealous, yet tender; wise, yet humble; a constant and early comer to meetings, and watchful and reverent in them. He was one that ever loved power and life more than words; and because he waited for this, so by it he would often be deeply affected and made to utter such testimonies as were greatly to the help of the poor and needy, the weary and heavy-laden, the true sojourners and travellers to the eternal rest and city of God."
+      },
+      {
+        "source": "Thomas Ellwood",
+        "text": "Yet after it pleased the Father to reveal his Son in [Isaac Penington], thereby giving him to see, and certainly to know, what was that good and acceptable and perfect will of God; oh, how joyfully did he receive it! How willingly did he bow unto it! How readily did he yield his neck to the yoke of Christ! And how constantly and delightfully did he wear it! Did he then regard the pleasures of the times, or value the preferments and honors of the world? No, no. he turned his back upon it all; esteeming the reproach of Christ greater riches than the treasures of Egypt."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "92d2a0ab-55d5-4fc1-aaf6-f003b172898d",
+        "description": "In her Lives and Persecutions of the Primitive Quakers, Mary Ann Kelty shows a particular affinity for the life and writings of Isaac Penington, saying of him:  “Yes, good and faithful servant!—well-instructed scribe!—bringing forth out of your treasures things new and old—-you have fed many! Be your just memory blessed! And let a heart that owes you much, thus, in most true and tender love, record its gratitude.”"
+      },
+      {
+        "id": "2ff4c475-b7a6-411f-a960-75edf4bb79fd",
+        "description": "Knowing that Thomas Ellwood was reviled and abused by his father for his adherence to the Truth, Isaac and Mary Penington took him into their home and treated him as on of their own children. Much of the biographical information that is known about the Peningtons comes from the Journal of Thomas Ellwood."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Jordans",
+      "region": "England"
+    },
+    "added": "2018-09-25T19:17:54.000Z",
+    "documents": [
+      "c248c2e7-947b-4629-8296-0cdff67a6d99",
+      "62213938-9464-4930-9478-5f112c43fe54",
+      "491af758-8872-4de2-a958-d9059761a661",
+      "1e2ad3c4-d14e-4277-b2f4-a520de5d5409",
+      "f2f76200-7cb1-491a-a6d5-e5ecae939d28",
+      "7727b95b-960f-491c-ac61-cf876d10b278"
+    ]
+  },
+  "a19be961-6cdd-42cb-864a-a280b60d2848": {
+    "id": "a19be961-6cdd-42cb-864a-a280b60d2848",
+    "lang": "en",
+    "born": 1659,
+    "died": 1741,
+    "description": "James Dickinson (1659-1741) was a well-known and much-beloved minister in the Society of Friends, whose long life was spent in tireless labor for the edification of the church and for the good of souls. In the service of the ministry, he travelled throughout England, Ireland, and Scotland; undergoing ​many ​sufferings in times of persecution. He visited Friends in Ireland twelve times, three times in America, once in Holland and ​also in ​Germany.​ ​His ministry was not in the enticing words which man’s wisdom teaches, but in the demonstration of the Spirit and power, and was effectual to the convincing and gathering of many whose hearts became settled on the Rock Christ Jesus, knowing Him to be their true light and teacher.",
+    "hasNonDraftDocument": true,
+    "name": "James Dickinson",
+    "gender": "male",
+    "slug": "james-dickinson",
+    "path": "en/james-dickinson",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Dickinson, James",
+    "residences": [
+      {
+        "city": "Moorside",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "John Bell",
+        "text": "It may be truly said of [James Dickinson] that he went not about to publish the gospel of life and salvation with enticing words which man’s wisdom teaches, but in the power and demonstration of the Spirit. It was by being obedient to the powerful workings thereof in himself, and by waiting diligently for the movings and openings of it, that he became well qualified for that service."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "9acb6df3-765e-47bd-b50c-bab6b3cd7239",
+        "description": "Thomas Wilson was James Dickinson’s intimate friend and most frequent companion in the work of the ministry. Together they traveled and labored in near gospel fellowship throughout most parts of England, Ireland, Wales, West Indies, and the American Colonies."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Moorside",
+      "region": "England"
+    },
+    "added": "2018-09-28T20:36:28.000Z",
+    "documents": [
+      "d0d15232-db51-48fc-a8ed-5e0b206f9a3f"
+    ]
+  },
+  "4ec2e484-86d9-4ac6-b835-42bc1c1c16bc": {
+    "id": "4ec2e484-86d9-4ac6-b835-42bc1c1c16bc",
+    "lang": "en",
+    "born": 1712,
+    "died": 1780,
+    "description": "​As a boy, James Gough (1712-1780) was known for his genius intellect, having mastered the Greek and Latin tongues when still a young child. At one point, after conversing with young James, a distinguished Justice of the Peace so admired his propensity for learning that he offered to pay his way through university. But although such flattery sowed seeds of pride and vanity in James’ young heart, it pleased the Lord to visit him in power and love, and he was prevailed upon to give up all that he had once called gain to follow Christ. James Gough became a wise and well-beloved minister among the Society of Friends, but having learned to live low at the feet of His Master, he was always remarkable for his deep humility, and low opinion of himself.",
+    "hasNonDraftDocument": true,
+    "name": "James Gough",
+    "gender": "male",
+    "slug": "james-gough",
+    "path": "en/james-gough",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Gough, James",
+    "residences": [
+      {
+        "city": "Kendal",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1712,
+            "end": 1737
+          }
+        ]
+      },
+      {
+        "city": "Cork",
+        "region": "Ireland",
+        "durations": [
+          {
+            "start": 1737,
+            "end": 1744
+          }
+        ]
+      },
+      {
+        "city": "Mountmellick",
+        "region": "Ireland",
+        "durations": [
+          {
+            "start": 1744,
+            "end": 1780
+          }
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Samuel Neale",
+        "text": "[James Gough] was a living minister, and well instructed in the mysteries of the kingdom; he was adorned with the beautiful robes of love, and he eminently felt peace on earth to abound in him, and goodwill towards men. He was a devoted faithful labourer in the heavenly vineyard, and he delighted to see the youth under a heavenly visitation, fitting and preparing for the Lord’s vineyard."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Mountmellick",
+      "region": "Ireland",
+      "durations": [
+        {
+          "start": 1744,
+          "end": 1780
+        }
+      ]
+    },
+    "added": "2018-10-01T14:54:03.000Z",
+    "documents": [
+      "9c43d93e-8bfb-43bc-a238-310cf00b77a1",
+      "6f47a04b-de86-4646-ba0f-52c7bdbd2ae3"
+    ]
+  },
+  "8b3a4f42-3f92-47c3-bfcd-303e6b95736e": {
+    "id": "8b3a4f42-3f92-47c3-bfcd-303e6b95736e",
+    "lang": "en",
+    "born": 1616,
+    "died": 1660,
+    "description": "James Nayler was a prominent leader in the early Society of Friends in England. Though a farmer by trade, and a man of limited education, his deep spiritual understanding, piercing discernment, and powerful preaching of the gospel caused multitudes to acknowledge that he spoke in the demonstration of the Spirit and power, as one having authority, and not as the scribes. Sadly, he is best known for a single (and deeply regretted) act of folly committed in a time of weakness and temptation, when, “because of the abundance of revelation” and the unchecked flattery of a few imprudent admirers, he accepted greater praise than is due to any man. The Lord, however, brought him to a clear sight and sense of his error, and having heartily renounced and repented for all wrong, he was restored to fellowship and usefulness in the body of Christ for the remainder of his days.",
+    "hasNonDraftDocument": true,
+    "name": "James Nayler",
+    "gender": "male",
+    "slug": "james-nayler",
+    "path": "en/james-nayler",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Nayler, James",
+    "residences": [
+      {
+        "city": "Wakefield",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "An Officer under Oliver Cromwell",
+        "text": "When I came there, I found it was James Nayler preaching to the people; and with such power and reaching energy, as I had not till then been witness of. I could not help staying a little, although I was afraid to stay; for I was made a Quaker, being forced to tremble at the sight of myself. I was struck with more terror by the preaching of James Nayler, than I was at the battle of Dunbar, when we had nothing else to expect, but to fall a prey to the swords of our enemies, without being able to help ourselves. I clearly saw the cross to be submitted to, so I dared stay no longer, but got off, and carried condemnation for it in my own breast."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Wakefield",
+      "region": "England"
+    },
+    "added": "2018-09-26T15:30:34.000Z",
+    "documents": [
+      "d94f2fb3-f19f-4aa3-a3a0-9b2ddf87da9c"
+    ]
+  },
+  "dbc9b5c7-f762-4c61-8b64-65d8200a68b2": {
+    "id": "dbc9b5c7-f762-4c61-8b64-65d8200a68b2",
+    "lang": "en",
+    "born": 1637,
+    "died": 1656,
+    "description": "James Parnell (1637-1656) is said to have been “young, small of stature, and poor in appearance, but thousands were obliged to confess that “he spoke as one having authority, and not as the scribes.” He was convinced of the Truth when a boy of fourteen years, and became a valiant minister of the gospel by sixteen. Following a debate with a prominent priest, Parnell was arrested on spurious charges of being an “idle and disorderly person,” and imprisoned at Colchester Castle. There he was confined to a small hole in the thick castle wall, twelve feet above the ground, and died from sickness and ill-treatment after ten months imprisonment at nineteen years of age.",
+    "hasNonDraftDocument": true,
+    "name": "James Parnell",
+    "gender": "male",
+    "slug": "james-parnell",
+    "path": "en/james-parnell",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Parnell, James",
+    "residences": [
+      {
+        "city": "Retford",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Stephen Crisp",
+        "text": "And among these babes who thus came to receive a knowledge of the mysteries of the kingdom of God by the working of His divine power, was this noble child, James Parnell, who was a vessel of honor indeed, and mighty in the power and Spirit of Emmanuel. Much might be spoken of this young man, and a large testimony does live in my heart to his blessed life, and to the power and wisdom that abounded in him."
+      },
+      {
+        "source": "James Parnell",
+        "text": "Friend, stand in, and keep your mind to that which lets you see your enemies to be of your own house. Your imagination is an enemy; your wisdom is an enemy; that which has been precious to you is now your greatest enemy. Therefore, you must now sacrifice what you have called precious and yield it up to death, that the Just One may be raised to life, and the righteous Seed be brought forth to reign in you and be your Head."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Retford",
+      "region": "England"
+    },
+    "added": "2018-10-01T19:52:06.000Z",
+    "documents": [
+      "3159f4ec-2dd4-465b-8b40-ca8056af7a0e"
+    ]
+  },
+  "3db2b190-3b5d-4f06-990e-65273b6ce896": {
+    "id": "3db2b190-3b5d-4f06-990e-65273b6ce896",
+    "lang": "en",
+    "born": 1650,
+    "died": 1700,
+    "description": "TODO",
+    "hasNonDraftDocument": true,
+    "name": "Jane Doe",
+    "gender": "female",
+    "slug": "jane-doe",
+    "path": "en/jane-doe",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Doe, Jane",
+    "residences": [
+      {
+        "city": "London",
+        "region": "England"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "London",
+      "region": "England"
+    },
+    "added": "2019-04-15T20:39:17.000Z",
+    "documents": [
+      "d3f5e306-433f-40e5-ab8c-68f9c0486713"
+    ]
+  },
+  "565bd2bc-7a25-4ca8-8b95-5e2fa5ee3142": {
+    "id": "565bd2bc-7a25-4ca8-8b95-5e2fa5ee3142",
+    "lang": "en",
+    "born": 1734,
+    "died": 1816,
+    "description": "The story of Jane Pearson (1735–1816) is both heartbreaking and deeply inspiring. Her life was fraught with inward and outward trials beyond description. For fourteen years she wrestled with a variety of inward enemies as she sought to truly know and be conformed to the Beloved of her soul. And when at last she came to a measure of peace and stability in the Truth, she was then made to suffer the loss of her husband and seven children to a variety of illnesses. But the more she lost of the world, the more she seemed to gain of Christ, and her experiences of God’s power and mercy in her latter years are indescribably beautiful.",
+    "hasNonDraftDocument": true,
+    "name": "Jane Pearson",
+    "gender": "female",
+    "slug": "jane-pearson",
+    "path": "en/jane-pearson",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Pearson, Jane",
+    "residences": [
+      {
+        "city": "Carlisle",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1734,
+            "end": 1791
+          }
+        ]
+      },
+      {
+        "city": "Whitehaven",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1791,
+            "end": 1816
+          }
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Jane Pearson",
+        "text": "Dear Friends, nothing will do but keeping near to God, and dwelling always as in His presence! Do nothing in His sight that you would be afraid any mortal should see. Keep a pure heart and clean hands, and the end will be peace."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Carlisle",
+      "region": "England",
+      "durations": [
+        {
+          "start": 1734,
+          "end": 1791
+        }
+      ]
+    },
+    "added": "2018-10-01T20:33:35.000Z",
+    "documents": [
+      "0f940360-9aaf-41d1-9601-e8ce60cfd4d7"
+    ]
+  },
+  "8764b8e4-9e08-46db-8220-58af5ac4e6ba": {
+    "id": "8764b8e4-9e08-46db-8220-58af5ac4e6ba",
+    "lang": "en",
+    "born": 1751,
+    "died": 1793,
+    "description": "Job Scott (1751-1793) was a gifted and well-beloved minister in the Society of Friends in America. He was known for his total dependence upon the immediate moving and empowering of the Holy Spirit, and his unwillingness to minister without a clear sense of the Lord’s will. On occasions, while preaching, he would suddenly stop speaking and sit down, explaining later that, having lost a sense of the authority and direction of the Spirit of God, he could do nothing without it. The writings in his journal abound with spiritual wisdom and experience, and have no doubt comforted and helped many weary travelers on the road to Zion. Job Scott died of Smallpox on a ministry trip to Ireland in 1793.",
+    "hasNonDraftDocument": true,
+    "name": "Job Scott",
+    "gender": "male",
+    "slug": "job-scott",
+    "path": "en/job-scott",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Scott, Job",
+    "residences": [
+      {
+        "city": "Providence",
+        "region": "Rhode Island"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Job Scott (on his death bed)",
+        "text": "All the former conflicts, however grievous in their time, are lighter now than vanity, except as they are clearly seen to have contributed largely to the sanctification of the soul."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Providence",
+      "region": "Rhode Island"
+    },
+    "added": "2018-10-03T19:35:18.000Z",
+    "documents": [
+      "5721d1c1-0c0c-4ac7-96d6-dea095446958"
+    ]
+  },
+  "754c6fa9-bc0e-4932-ae7a-8dcea2b9aee9": {
+    "id": "754c6fa9-bc0e-4932-ae7a-8dcea2b9aee9",
+    "lang": "en",
+    "born": 1637,
+    "died": 1710,
+    "description": "John Banks (1637-1710) was a faithful and influential minister among the first generation of Quakers. Upon his death, an intimate friend wrote of him—“After it had pleased the eternal, wise God to open his understanding, and to let him see his own state and condition, and reveal his Son in him, he was made willing to give up freely to the heavenly and inward appearance of Christ Jesus, the hope of glory. And as he was obedient thereunto, he was entrusted with a large gift of the ministry, in which he grew, and was made powerful in it, to the turning of many unto the right way of the Lord who were convinced of the evil of their ways, and turned unto Jesus Christ, their free Teacher, and were made to bless the Lord on his behalf.”",
+    "hasNonDraftDocument": true,
+    "name": "John Banks",
+    "gender": "male",
+    "slug": "john-banks",
+    "path": "en/john-banks",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Banks, John",
+    "residences": [
+      {
+        "city": "Sunderland",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "William Penn",
+        "text": "He [John Banks] was a means of strength to my soul in the early days of my convincement. I was kindly encouraged by him in the belief of the blessed doctrine of the light, spirit, grace, and truth of Christ in the inward parts, reproving, instructing, reforming, and redeeming those souls from the evil of the world, who were obedient thereunto."
+      },
+      {
+        "source": "John Banks (dying words)",
+        "text": "It is well with me. I have nothing to do but to die, and I shall end in the Truth as I began."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Sunderland",
+      "region": "England"
+    },
+    "added": "2018-10-03T20:45:00.000Z",
+    "documents": [
+      "010d8d13-61c7-4485-8ab9-6fcd8297765b",
+      "6237d678-48f8-44df-9eac-004562987a60"
+    ]
+  },
+  "ac06ca75-a9eb-44f3-9c9b-bca7c3369186": {
+    "id": "ac06ca75-a9eb-44f3-9c9b-bca7c3369186",
+    "lang": "en",
+    "born": 1797,
+    "died": 1838,
+    "description": "Although John Barclay (1797-1838) was a descendent of the well-known apologist Robert Barclay, he was a complete stranger to the life and power of Truth until he began to seek the Lord with all his heart, somewhere around his 18th year. The Society of Friends at that time was in a low and declining state, but John Barclay dug deep and found the Root of life from which the early Quakers had sprouted, and in time became a living branch himself, and a very useful author and minister. He lived only 41 years, but his short life was wholly dedicated to his Master’s cause, and many of the journals, memoirs, and biographies of Early Friends that we possess now are the fruit of his arduous and faithful labor with the original documents.",
+    "hasNonDraftDocument": true,
+    "name": "John Barclay",
+    "gender": "male",
+    "slug": "john-barclay",
+    "path": "en/john-barclay",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Barclay, John",
+    "residences": [
+      {
+        "city": "London",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "John Barclay",
+        "text": "Oh how He touches, softens, and humbles these proud, hard hearts of ours, these fallen, but aspiring natures, these froward, wayward tendencies; and woos us to be wise indeed, by learning of Him how to be simple as little children,—-submitting, bearing, and taking His yoke upon our spirits."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "London",
+      "region": "England"
+    },
+    "added": "2018-10-09T20:15:03.000Z",
+    "documents": [
+      "318ac4f2-08ba-43d1-8d96-80d1714caddc"
+    ]
+  },
+  "6fb10f70-2783-4779-afa3-8376795d3879": {
+    "id": "6fb10f70-2783-4779-afa3-8376795d3879",
+    "lang": "en",
+    "born": 1631,
+    "died": 1690,
+    "description": "John Burnyeat (1631-1690) was an elder and pillar in the early Society of Friends, whose powerful ministry turned many from darkness to light, and from the power of Satan to the power of God. Having been awakened to see the fallacy of an imputed righteousness that is neither experienced nor obeyed, he turned to the One who struck him and found that Zion must be purged “by the spirit of judgment, and by the spirit of burning.” Having been prepared and sent into harvest, he labored tirelessly and traveled extensively in the service of Truth, often suffering greatly for His faithfulness to Jesus Christ. Truly it can be said of John Burnyeat that he followed the Lord fully in his generation, putting his hand to the plow and never looking back.",
+    "hasNonDraftDocument": true,
+    "name": "John Burnyeat",
+    "gender": "male",
+    "slug": "john-burnyeat",
+    "path": "en/john-burnyeat",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Burnyeat, John",
+    "residences": [
+      {
+        "city": "Broughton",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1631,
+            "end": 1673
+          }
+        ]
+      },
+      {
+        "city": "Dublin",
+        "region": "Ireland",
+        "durations": [
+          {
+            "start": 1673,
+            "end": 1690
+          }
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "source": "George Fox",
+        "text": "[John Burnyeat] was a faithful friend and brother, and an able minister of Christ Jesus…an elder, and a pillar in the house of God…a true apostle of Jesus Christ, who preached Him freely, both by sea and land."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Broughton",
+      "region": "England",
+      "durations": [
+        {
+          "start": 1631,
+          "end": 1673
+        }
+      ]
+    },
+    "added": "2018-10-10T17:36:27.000Z",
+    "documents": [
+      "b40a8274-196a-43e3-9fef-0c96ab9ce55a",
+      "2bb79cd9-88c3-4801-ae66-ac70970c97bc"
+    ]
+  },
+  "6d57baa9-9a9d-434c-b41b-68adfcce02d3": {
+    "id": "6d57baa9-9a9d-434c-b41b-68adfcce02d3",
+    "lang": "en",
+    "born": 1705,
+    "died": 1775,
+    "description": "​John Churchman (1705-1775) was a man whose entire life was devoted to the increase of Christ’s kingdom in the hearts of men. Having experienced the spiritual baptism which saves, and abiding in a state of watchfulness and humility, he grew from stature to stature and became an upright minister and father in the church, traveling diligently in the work of the ministry as an example to all in word, conduct, faith and ​love. Three days before his death, though weak and unable to stand on his own, he said to those standing by his bedside, “I feel more life, more light, more love and sweetness than ever before,” and then speaking more of the divine refreshment and comfort he felt flowing like a pure stream to his inward man, he said, “I feel that which lives beyond death and the grave.”",
+    "hasNonDraftDocument": true,
+    "name": "John Churchman",
+    "gender": "male",
+    "slug": "john-churchman",
+    "path": "en/john-churchman",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Churchman, John",
+    "residences": [
+      {
+        "city": "Nottingham",
+        "region": "Pennsylvania"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Joseph Oxley",
+        "text": "We were met here by our worthy friend, that good man, John Churchman, an eminent minister of the Gospel, whose services are well known to many in England, Wales, Scotland, Ireland, Holland, Germany, etc.; his labour was great, instructing, convincing, and edifying to many, by whom he is had in sweet remembrance."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "06d0660f-5f23-4e27-a13d-5c670dbb41e6",
+        "description": "In 1750, John Pemberton crossed the Atlantic intending to spend time in Europe for purposes of business and for the benefit of his health. But finding his heart nearly attached to his fellow-passanger, John Churchman, he “found no liberty to leave him,” and spent the next three years travelling with him throughout Europe in the work of the ministry."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Nottingham",
+      "region": "Pennsylvania"
+    },
+    "added": "2018-10-18T19:26:02.000Z",
+    "documents": [
+      "54d7505f-a7af-40fd-a21b-33cb6ad5b0a0"
+    ]
+  },
+  "ee467431-a18f-465e-aa3e-751dde01f9a6": {
+    "id": "ee467431-a18f-465e-aa3e-751dde01f9a6",
+    "lang": "en",
+    "born": 1737,
+    "died": 1827,
+    "description": "Until his mid 30’s, John Conran (1739-1827) was a faithful and zealous member of the Church of England, but longing for true inward purity and transformation of soul, he attended a meeting of the Society of Friends where he was powerfully confronted by the Spirit of God. Having seen his true condition, and been somewhat awakened to Christ’s baptism of the Holy Spirit and fire, he “denied himself, picked up his cross, and followed Christ,” and so was made vessel of honor in the Lord’s house. His struggles were many and painful, both with the enemies of his own soul, and with the declining condition of the Society of Friends. But John Conran kept the faith, and finished his race a monument to the heart-cleansing power of grace.",
+    "hasNonDraftDocument": true,
+    "name": "John Conran",
+    "gender": "male",
+    "slug": "john-conran",
+    "path": "en/john-conran",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Conran, John",
+    "residences": [
+      {
+        "city": "Dublin",
+        "region": "Ireland"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "John Conran",
+        "text": "Yet those things which I had suffered were only as a beginning of sorrows; the ground of the heart was not to be lightly turned up, the gospel plough was to be introduced, and the fallow ground broken up, and I was to sow no more among thorns. The terrors of God’s judgments were often set before my mind, and made such deep impressions as I believe will never be erased. It is a truth past all contradiction with me, that the Divine Spirit will not dwell in a temple which He has not previously cleansed in a great degree."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Dublin",
+      "region": "Ireland"
+    },
+    "added": "2018-10-18T20:52:22.000Z",
+    "documents": [
+      "bc710dda-f13a-4208-a8dc-e94fac82dbe6"
+    ]
+  },
+  "b9da2f4c-2ee3-4357-b2d7-39a1afd0684a": {
+    "id": "b9da2f4c-2ee3-4357-b2d7-39a1afd0684a",
+    "lang": "en",
+    "born": 1617,
+    "died": 1699,
+    "description": "Like many other early Quakers, John Crook (1617-1699) was a seeker of truth from his earliest days. He was educated in London, and for a time held the office of Justice of the Peace in Bedfordshire, but when he was convinced of the truth in 1654 by the preaching of William Dewsbury, he soon lost both his public office and his freedom. In all, John Crook was imprisoned ten times for his faith, and suffered greatly at “the hands of unreasonable men.”",
+    "hasNonDraftDocument": true,
+    "name": "John Crook",
+    "gender": "male",
+    "slug": "john-crook",
+    "path": "en/john-crook",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Crook, John",
+    "residences": [
+      {
+        "city": "London",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "John Crook",
+        "text": "This Holy Spirit has been to me both meat and drink, even as the Rock of old that followed the Israelites. Ten times (as I remember) I have been in bonds, and all for the sake of a good conscience before my God. But this Holy Spirit never left me, but many times has caused me to sing in prisons. Yes, by this Holy Spirit all has turned to my joy. My help is in it, my comfort flows from it, and my daily request to my God is that all His people may be guided by it in all things."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "London",
+      "region": "England"
+    },
+    "added": "2018-10-19T18:31:14.000Z",
+    "documents": [
+      "cf6f05e2-e5c9-4ec3-8096-d283f3e4c020"
+    ]
+  },
+  "817da290-5ae9-4dce-abd7-73a23ef1e1b3": {
+    "id": "817da290-5ae9-4dce-abd7-73a23ef1e1b3",
+    "lang": "en",
+    "born": 1650,
+    "died": 1700,
+    "description": "TODO",
+    "hasNonDraftDocument": true,
+    "name": "John Doe",
+    "gender": "male",
+    "slug": "john-doe",
+    "path": "en/john-doe",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Doe, John",
+    "residences": [
+      {
+        "city": "London",
+        "region": "England"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "London",
+      "region": "England"
+    },
+    "added": "2019-04-15T20:39:17.000Z",
+    "documents": [
+      "f493c685-d002-481f-869e-859fbd803225"
+    ]
+  },
+  "a71d0dd4-fed8-42a9-a5fd-8c3890701dee": {
+    "id": "a71d0dd4-fed8-42a9-a5fd-8c3890701dee",
+    "lang": "en",
+    "born": 1676,
+    "died": 1745,
+    "description": "John Fothergill (1676-1745) was a true minister of the gospel of Jesus Christ, made so by the Spirit of God, and not by the will or wisdom of man. As a young man, he took the yoke of his Master upon himself, learned to bear it faithfully, and so experientially knew what it was to “be judged according to men in the flesh, but live according to God in the Spirit” (1 Pet. 4:6). Constrained by the love of Christ, his life was poured out in the service of the gospel, traveling all over England, Scotland, Wales, and Ireland on several occasions, and crossing the seas three times to visit the colonies in America. John Fothergill was the father of Samuel Fothergill (the well-known Quaker minister) and Dr. John Fothergill, the famous doctor and botanist.",
+    "hasNonDraftDocument": true,
+    "name": "John Fothergill",
+    "gender": "male",
+    "slug": "john-fothergill",
+    "path": "en/john-fothergill",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Fothergill, John",
+    "residences": [
+      {
+        "city": "York",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "John Fothergill",
+        "text": "My heart groans within me, that it may continually be your, and all our care, to labor with due watchfulness, to walk humbly before Him, to feel after His living power, and to bear His yoke resignedly and cheerfully; that thereby we may be crucified to the world, with the evils and hurtful friendships of it."
+      },
+      {
+        "source": "Samuel Fothergill",
+        "text": "I have found it my duty and great advantage to place in view my worthy father, and in matters of importance, or dubious cases, to consult what would have pleased him, who was ripe in experience and judgment."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "53f21a86-f264-460f-b879-3cd4a7ddf615",
+        "description": "Although Samuel Fothergill (son of John Fothergill) turned from the Lord at a young age and began to “drink up iniquity as an ox drinks water,” he was at length pierced to the heart with a sight of his rebellion, and so whole-heartedly turned back to the Lord that he became an eminent minister in his day, walking in the footsteps of his worthy father."
+      }
+    ],
+    "primaryResidence": {
+      "city": "York",
+      "region": "England"
+    },
+    "added": "2018-10-19T19:49:35.000Z",
+    "documents": [
+      "b74bd655-8907-4484-a3bd-a658b3267dea"
+    ]
+  },
+  "10011a5d-4773-49b1-badc-27e787a9315e": {
+    "id": "10011a5d-4773-49b1-badc-27e787a9315e",
+    "lang": "en",
+    "born": 1641,
+    "died": 1711,
+    "description": "John Gratton (1641-1711) was one of many early Quakers who were convinced of the truth directly by the Lord, apart from the preaching or writings of others in the Society of Friends. His desperate and agonizing pursuit of true Christianity (amongst the many sects and opinions of the day) finally brought him to dramatically experience the truth of Christ’s promise—“Everyone who asks receives, and he who seeks finds, and to him who knocks it will be opened.” Having found the truth he had so diligently sought for, he loved it, and submitted to its powerful operations in his own heart, becoming an esteemed minister and a great sufferer for the gospel of Jesus Christ.",
+    "hasNonDraftDocument": true,
+    "name": "John Gratton",
+    "gender": "male",
+    "slug": "john-gratton",
+    "path": "en/john-gratton",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Gratton, John",
+    "residences": [
+      {
+        "city": "Monyash",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "William Penn (in a letter to John Gratton)",
+        "text": "Dear John, indeed you are one of my dear and choice friends, with whom is my dear, near, and inward fellowship. And though you say you are low and poor, and as dependent as ever, this is a noble condition, and nothing better could be said for yourself, or for the most worthy one in the flock. Oh dear John, I desire to dwell there too, while I live in this tabernacle."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Monyash",
+      "region": "England"
+    },
+    "added": "2018-10-23T19:02:08.000Z",
+    "documents": [
+      "0e46ae49-4202-446a-b5c3-06514aa16fa5"
+    ]
+  },
+  "ee39ba0e-b512-4920-9a88-33f687cb4680": {
+    "id": "ee39ba0e-b512-4920-9a88-33f687cb4680",
+    "lang": "en",
+    "born": 1713,
+    "died": 1776,
+    "description": "From a wild and thoughtless youth, John Griffith (1713-1776) was made a wise and careful minister of the gospel. His journal is filled with heavenly wisdom gained from personal experience of both the Lord’s goodness and guidance, and the enemy’s snares and deceptions. Together with a remnant of bright, shining lamps in his generation, Griffith warred against a sad degeneracy into formality, tradition, and lifeless words amongst a people once distinguished by their adherence to the inward power and purity of the Holy Spirit. Doubtless his life and experiences will be read with great interest by every sincere seeker of God.",
+    "hasNonDraftDocument": true,
+    "name": "John Griffith",
+    "gender": "male",
+    "slug": "john-griffith",
+    "path": "en/john-griffith",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Griffith, John",
+    "residences": [
+      {
+        "city": "Radnorshire",
+        "region": "Wales",
+        "durations": [
+          {
+            "start": 1713,
+            "end": 1726
+          }
+        ]
+      },
+      {
+        "city": "Philadelphia",
+        "region": "Pennsylvania",
+        "durations": [
+          {
+            "start": 1726,
+            "end": 1750
+          }
+        ]
+      },
+      {
+        "city": "Chelmsford",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1750,
+            "end": 1776
+          }
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "source": "John Griffith",
+        "text": "Very gross is the deception of those who imagine the whole work of regeneration to be instantaneous. This can be nothing else but a delusion of Satan, to settle people at rest in a state of self-security as soon as he can. Oh! what a length of time it takes to work out that rebellious, stiff-necked, backsliding nature, which was born in Egypt, before the new generation is raised up that is fit to enter the promised land!"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Chelmsford",
+      "region": "England",
+      "durations": [
+        {
+          "start": 1750,
+          "end": 1776
+        }
+      ]
+    },
+    "added": "2018-10-25T16:41:30.000Z",
+    "documents": [
+      "a3016ba9-1370-4b8c-b680-98f383317f3b",
+      "f93a7eb9-cef7-4b30-81da-7d1a3cd35de2",
+      "1b31482a-5cba-4ab3-b562-462b0a2b4fd3"
+    ]
+  },
+  "f4205691-c59f-46a7-a6b4-945a0f0b99e8": {
+    "id": "f4205691-c59f-46a7-a6b4-945a0f0b99e8",
+    "lang": "en",
+    "born": 1726,
+    "died": 1815,
+    "description": "John Kendall (1726-1815) lived a long and fruitful life in the service of his Master. Through submission to pious parents, he learned to walk in the narrow and safe path when still very young, and was called to the work of the ministry in his twenty-first year. His travels for the Lord were first in the northern parts of England and Scotland, but in subsequent years he made five trips to Holland, one to Germany, and was often engaged in gospel labors in Great Britain. When older and less able to travel, much of his time was dedicated to the publication of valuable Christian writings, some written by himself, and some collected and compiled from other pious authors.",
+    "hasNonDraftDocument": true,
+    "name": "John Kendall",
+    "gender": "male",
+    "slug": "john-kendall",
+    "path": "en/john-kendall",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Kendall, John",
+    "residences": [
+      {
+        "city": "Colchester",
+        "region": "England"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Colchester",
+      "region": "England"
+    },
+    "added": "2020-03-24T19:29:25.228Z",
+    "documents": [
+      "671213db-60a7-42ed-9c07-4785e321de26"
+    ]
+  },
+  "8edf8070-2cfd-4a55-82f4-2bcf4ddbdb47": {
+    "id": "8edf8070-2cfd-4a55-82f4-2bcf4ddbdb47",
+    "lang": "en",
+    "born": 1727,
+    "died": 1795,
+    "description": "The humility and simplicity of John Pemberton (1727-1795), united with an ardent love for his fellow creatures and a desire for their everlasting welfare, made him an eminent and much-beloved minister in the Society of Friends. Though his journal speaks much of his weakness and struggles, and little of his gifts and attainments, yet he was highly esteemed by even the most notable ministers of his day. Rebecca Jones records in her journal, “George Dillwyn has sometimes made a comparison between some of us and John Pemberton, that we are as fishing with a crooked pin and thread, while John is casting his net into the sea.” The reader will be amply repaid for tracing the footsteps of a man much weaned from the spirit and ways of the world, who eagerly endeavoured to perform his day’s work in the day time.",
+    "hasNonDraftDocument": true,
+    "name": "John Pemberton",
+    "gender": "male",
+    "slug": "john-pemberton",
+    "path": "en/john-pemberton",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Pemberton, John",
+    "residences": [
+      {
+        "city": "Philadelphia",
+        "region": "Pennsylvania"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Rebecca Jones",
+        "text": "George Dillwyn has sometimes made a comparison between some of us and John Pemberton, that we are as fishing with a crooked pin and thread, while John is casting his net into the sea."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "45dca7c2-3ff9-4a83-acdf-55ec1630cb25",
+        "description": "Residing in the same home city of Philadelphia, and sometimes traveling together in the work of the ministry, Rebecca Jones was often in the company of her dear and highly respected friend John Pemberton. Her journal contains many letters both to and from him, along with several anecdotes related to his travels and trials."
+      },
+      {
+        "id": "54d7505f-a7af-40fd-a21b-33cb6ad5b0a0",
+        "description": "Having crossed the Atlantic in 1750, John Churchman was surprised to find that one of his shipmates—twenty-three year old John Pemberton—concluded to keep him company “for a few days.” But finding his heart nearly bound to this father in Israel, Pemberton “found no liberty to leave him” and continued his companion in the ministry for the next three years."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Philadelphia",
+      "region": "Pennsylvania"
+    },
+    "added": "2018-10-25T18:37:09.000Z",
+    "documents": [
+      "06d0660f-5f23-4e27-a13d-5c670dbb41e6"
+    ]
+  },
+  "1a43f3b6-f60b-4d5d-bdfd-5d777ac3dc77": {
+    "id": "1a43f3b6-f60b-4d5d-bdfd-5d777ac3dc77",
+    "lang": "en",
+    "born": 1667,
+    "died": 1753,
+    "description": "The life of John Richardson (1667-1753) is a powerful confirmation of Jesus’ words, that heavenly things “are hidden from the wise and prudent and revealed unto babes,” and that His “power is made perfect in weakness.” Though starting out in life a poor farm boy with little education, Richardson became a faithful student in the Holy Spirit’s school of Christ, where he not only learned spiritual truths and heavenly mysteries, but came to experience his garments washed, his mind renewed, and his heart changed. Originally from England, he travelled as a minister for most of his adult life, twice visiting the American colonies, where he triumphantly defended the truth against “that sad apostate” George Keith.",
+    "hasNonDraftDocument": true,
+    "name": "John Richardson",
+    "gender": "male",
+    "slug": "john-richardson",
+    "path": "en/john-richardson",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Richardson, John",
+    "residences": [
+      {
+        "city": "York",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Daniel Stanton",
+        "text": "I went to that dear ancient Friend John Richardson’s, who had been twice to America on religious visits, and had taken much pains in his day and time for the spreading and promoting the gospel of peace and salvation in the earth. Although he was ancient and feeble in body, he was fresh and green in the life of religion, and my heart was refreshed in the unity and fellowship of divine life, in being in his company."
+      },
+      {
+        "source": "Samuel Fothergill",
+        "text": "Next day I was at Castleton. I spent an hour with that emblem of innocence, and in the afternoon rode ten miles, to the house where the ark rests, i. e., John Richardson’s, who went with me next day to Pickering, and I went back with him to his home, where we sat up until almost daylight."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "York",
+      "region": "England"
+    },
+    "added": "2018-10-25T20:09:48.000Z",
+    "documents": [
+      "470677d5-c6e0-4d1f-a61d-69827d25a14c",
+      "1e81ab5f-4f72-4570-93a1-e446e1e70267"
+    ]
+  },
+  "64059654-ccbb-4082-a4d4-af51e38eed80": {
+    "id": "64059654-ccbb-4082-a4d4-af51e38eed80",
+    "lang": "en",
+    "died": 1684,
+    "description": "John Roberts (1623-1684) was a man of piety, wisdom, and remarkable wit. He was convinced of the truth through the powerful ministry of Richard Farnsworth, while the latter was a prisoner at Banbury Jail, and through heartfelt submission to the truth became a respected minister in the Society of Friends, sometimes traveling with George Fox. The combination of John Roberts’ blunt honesty, profound understanding, and humorous way of disputing with his adversaries, has long made the memoir of his life (written by his youngest son, Daniel) a favorite among early Quaker writings.",
+    "hasNonDraftDocument": true,
+    "name": "John Roberts",
+    "gender": "male",
+    "slug": "john-roberts",
+    "path": "en/john-roberts",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Roberts, John",
+    "residences": [
+      {
+        "city": "Cirencester",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Daniel Roberts (son of John Roberts)",
+        "text": "As [my father] passed the market-place, the tie of his shoe slackened; and while he stooped down to fasten it, a man came behind him and struck him on the back a hard blow with a stone, saying, “There, take that for Jesus Christ’s sake!” He answered, “So I do,” not looking back to see who it was, but quietly going on his way."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Cirencester",
+      "region": "England"
+    },
+    "added": "2019-06-25T19:04:49.000Z",
+    "documents": [
+      "f044dc3e-9e30-41a0-80db-a9af65ff609d"
+    ]
+  },
+  "14754ae5-720e-45a3-bb45-3e227a7b4d65": {
+    "id": "14754ae5-720e-45a3-bb45-3e227a7b4d65",
+    "lang": "en",
+    "born": 1765,
+    "died": 1795,
+    "description": "Though raised in the Church of England, John Spalding’s (1765-1795) pursuit of truth left him dissatisfied with the traditional worship of his day, concluding that, in many respects, it was neither pleasing to God nor effective towards the salvation of his soul. After at last finding the Pearl of great price, he composed a public letter to beloved friends and family attending St. Giles church in Reading, explaining his reasons for leaving their communion, and acknowledging himself to be “one who was long in the profession, but knew not the power, till it pleased the Lord, by the ministry and writings of the people called Quakers, to direct him to where alone the power is to be known, that is, within.”",
+    "hasNonDraftDocument": true,
+    "name": "John Spalding",
+    "gender": "male",
+    "slug": "john-spalding",
+    "path": "en/john-spalding",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Spalding, John",
+    "residences": [
+      {
+        "city": "Reading",
+        "region": "England"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Reading",
+      "region": "England"
+    },
+    "added": "2018-10-29T14:34:24.000Z",
+    "documents": [
+      "3ae687a1-e934-4585-8abd-a477d0cb3b75",
+      "873dacbb-3205-4afb-8c38-772fb7a09fed"
+    ]
+  },
+  "c142b031-4632-4730-96cd-2c0e3efb76f5": {
+    "id": "c142b031-4632-4730-96cd-2c0e3efb76f5",
+    "lang": "en",
+    "born": 1749,
+    "died": 1839,
+    "description": "John Wigham (1749-1839) had strong desires raised in his heart to be the Lord’s servant when only eight years old, and feeling that he could not serve Him acceptably without being preserved from evil, he began then to implore the Lord to purify his heart and to make him a useful vessel in His house. After marrying, and beginning to travel in the work of the ministry, he and his wife felt impressed of the Lord to move their family (of seven children) from England to Scotland, where he served the declining church for the remainder of his long and fruitful life, dying in Aberdeen at the age of 91.",
+    "hasNonDraftDocument": true,
+    "name": "John Wigham",
+    "gender": "male",
+    "slug": "john-wigham",
+    "path": "en/john-wigham",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Wigham, John",
+    "residences": [
+      {
+        "city": "Haltwhistle",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1749,
+            "end": 1774
+          }
+        ]
+      },
+      {
+        "city": "Aberdeen",
+        "region": "Scotland",
+        "durations": [
+          {
+            "start": 1784,
+            "end": 1839
+          }
+        ]
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "932ed314-b6c2-48c4-b4d8-19ca31d0db49",
+        "description": "During an extended ministry trip in the United States between the years 1794 and 1797, John Wigham was often in the company of his esteemed friend Martha Routh visiting meetings of Friends and preaching the gospel among students, prisoners, slaves, and other Christian denominations."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Aberdeen",
+      "region": "Scotland",
+      "durations": [
+        {
+          "start": 1784,
+          "end": 1839
+        }
+      ]
+    },
+    "added": "2019-05-13T15:45:27.000Z",
+    "documents": [
+      "84ca0ff5-f17c-49ff-9bde-6c9f67a6a352"
+    ]
+  },
+  "2fc07cca-624d-435e-9a48-d7dc28edff9f": {
+    "id": "2fc07cca-624d-435e-9a48-d7dc28edff9f",
+    "lang": "en",
+    "born": 1720,
+    "died": 1772,
+    "description": "Because of his writings against slavery and other social evils, John Woolman (1720-1772) is one of the most well-known Quakers from the 18th century. Unfortunately, several heavily edited versions of his journal exist today which have removed important aspects of his Christian faith and experience, rendering him only a philanthropist and abolitionist. The truth is that John Woolman was a devoted servant of Jesus Christ, a preacher of truth and righteousness, and a man filled with the Spirit and love of God that overflowed towards his fellow creatures. This edition contains his unabridged journal and works.",
+    "hasNonDraftDocument": true,
+    "name": "John Woolman",
+    "gender": "male",
+    "slug": "john-woolman",
+    "path": "en/john-woolman",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Woolman, John",
+    "residences": [
+      {
+        "city": "Mount Holly",
+        "region": "New Jersey"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Job Scott",
+        "text": "Disappointment has a tendency, if we are well-disposed, to drive us nearer to God by weaning us, little by little, from other things. Thus came that wonder of his age, the blessed John Woolman, to witness his works go so fully beforehand to judgment, that he was dead whilst yet alive in the body."
+      },
+      {
+        "source": "Samuel Neale",
+        "text": "Here I saw John Woolman for the first time; I take him to be a sweet, clean-spirited Friend; his unity with the true Seed may be felt by his savory conversation and pious self-denying life."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Mount Holly",
+      "region": "New Jersey"
+    },
+    "added": "2018-11-01T20:20:54.000Z",
+    "documents": [
+      "9ec7c639-b4eb-4e58-aa37-fdc23817f5f3"
+    ]
+  },
+  "8ac61de7-079e-497c-a55c-0d4a178ceccd": {
+    "id": "8ac61de7-079e-497c-a55c-0d4a178ceccd",
+    "lang": "en",
+    "born": 1797,
+    "died": 1875,
+    "description": "Joseph Edgerton (1797-1875) was one of the few faithful Friends in the mid 19th century that held fast to the Truth, even as the long-favored Society of Friends crumbled to pieces on the right hand and on the left. He was acknowledged a minister of the gospel in 1833, and travelled extensively in that capacity a great part of his life. He was valiant for the Truth in his day, standing forth in unflinching support of the original doctrines and testimonies of the Society of Friends. The cleansing, purifying power of the Lord Jesus in His inward and spiritual appearance in the heart was frequently the subject of his preaching, and his greatest desire was that all would experience a growth in the true grace of God, and so be continually “taking root downward, and bringing forth fruit upward.”",
+    "hasNonDraftDocument": true,
+    "name": "Joseph Edgerton",
+    "gender": "male",
+    "slug": "joseph-edgerton",
+    "path": "en/joseph-edgerton",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Edgerton, Joseph",
+    "residences": [
+      {
+        "city": "Barnesville",
+        "region": "Ohio"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Joseph Edgerton (to his wife, upon the death of their daughter)",
+        "text": "I feel for our dear children, knowing the severe stroke is very keenly felt by them. Oh, I want you all to love Him who has dealt thus with us in His wisdom, though it be in causing us to drink the waters of “Marah” and affliction. For He is very gracious unto His children in every part of His heritage, and will keep them, and as they love Him more and more, they will become stronger and stronger, living to His praise."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "841500ef-cd48-4a42-8bd4-90ee841d19b4",
+        "description": "At a time when many were departing from the original principles and practices of Friends, Joseph Edgerton found encouragement and fellowship in his life-long friend and fellow-minister, Ann Branson. Both were members of the Ohio Yearly Meeting, and Edgerton’s journal contains eight letters addressed to Ann."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Barnesville",
+      "region": "Ohio"
+    },
+    "added": "2018-11-05T16:37:46.000Z",
+    "documents": [
+      "0451a301-8654-42e3-8701-6288579e5bbb"
+    ]
+  },
+  "f5685a70-b8ff-4912-aa36-272e680bd5a7": {
+    "id": "f5685a70-b8ff-4912-aa36-272e680bd5a7",
+    "lang": "en",
+    "born": 1715,
+    "died": 1776,
+    "description": "​Joseph Oxley (1715–1776) was a humble and sweet-spirited minister in the Society of Friends, whose life and service in the church manifested a total reliance upon the immediate empowering of the Spirit of Christ. Though he had a low opinion of himself, he was highly regarded and respected by all, and his ministry was known to be accompanied by that heavenly power which both confutes the proud and raises up the humble. He was led to preach the gospel in England, Ireland, Scotland, and the American Colonies, where his services were said to have “proceeded from the influence of the Minister of the sanctuary and true tabernacle, which God has pitched and not man.”",
+    "hasNonDraftDocument": true,
+    "name": "Joseph Oxley",
+    "gender": "male",
+    "slug": "joseph-oxley",
+    "path": "en/joseph-oxley",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Oxley, Joseph",
+    "residences": [
+      {
+        "city": "Norwich",
+        "region": "England"
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "c3428a4c-4a2f-480b-8612-f96e104914dd",
+        "description": "Feeling called to leave his native country in the work of the ministry, Joseph Oxley sailed from England to America in the year 1770, and spent much of the next year and nine months having his “choice Friend” Samuel Neale for a traveling companion in the work of the gospel."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Norwich",
+      "region": "England"
+    },
+    "added": "2018-11-05T16:22:41.000Z",
+    "documents": [
+      "20c95c47-62dd-4181-b6e7-dcd8142626ca"
+    ]
+  },
+  "2e0d8f1c-b8e6-493f-b1a5-15980df87929": {
+    "id": "2e0d8f1c-b8e6-493f-b1a5-15980df87929",
+    "lang": "en",
+    "born": 1708,
+    "died": 1787,
+    "description": "Though a shoe maker by trade, Joseph Phipps (1708–1787) was the author of several scholarly publications explaining and defending the tenets of Early Friends. In 1772, in response to a critical publication by a man named Samuel Newton, Phipps wrote “The Original and Present State of Man,” in which he cleared the Society from many unjust and untrue charges, and also defended and clarified the leading principles and practices of the Quakers. This extraordinary little book deals with “The nature of man’s fall, and the necessity, means, and manner of his restoration through the sacrifice of Christ, and the discernible operation of that Divine Spirit of grace and truth.”",
+    "hasNonDraftDocument": true,
+    "name": "Joseph Phipps",
+    "gender": "male",
+    "slug": "joseph-phipps",
+    "path": "en/joseph-phipps",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Phipps, Joseph",
+    "residences": [
+      {
+        "city": "Norwich",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Joseph Phipps",
+        "text": "Perfect redemption then consists, first, in paying the price of ransom; and second, in bringing out of bondage, and setting the prisoner at liberty. Our Savior paid the first by His suffering and sacrifice, and He performs the last by the effectual operation of His Spirit in the hearts of those who receive Him and resign wholly to Him."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "a8da908c-c9b4-4583-a2a3-ee460a90a4b9",
+        "description": "Those who appreciate the solid and biblical arguments of Joseph Phipps in the “The Original and Preset State of Man,” will most certainly enjoy Robert Barclay’s famous “Apology for the True Christian Divinity,” which is doubtless the most well-known of all Friends’ theological writings."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Norwich",
+      "region": "England"
+    },
+    "added": "2018-11-12T15:41:34.000Z",
+    "documents": [
+      "b7fb02eb-f804-431a-9c0c-7ead12400bf5"
+    ]
+  },
+  "07ceda74-7afb-4bc8-949c-195cb3a63338": {
+    "id": "07ceda74-7afb-4bc8-949c-195cb3a63338",
+    "lang": "en",
+    "born": 1657,
+    "died": 1729,
+    "description": "Joseph Pike (1657-1729) was convinced of the truth through the powerful preaching of William Edmundson, and grew to become a wise and faithful elder in the Society of Friends in Ireland. In his old age he wrote an account of his early years, spiritual struggles, and growth in the truth, chiefly for the benefit of his own children. In this short but valuable history, he relates (in helpful detail) the Lord’s dealings to Him, first as a judge, then as a refiner of silver, and eventually as the comforter and strengthener of Zion.",
+    "hasNonDraftDocument": true,
+    "name": "Joseph Pike",
+    "gender": "male",
+    "slug": "joseph-pike",
+    "path": "en/joseph-pike",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Pike, Joseph",
+    "residences": [
+      {
+        "city": "Cork",
+        "region": "Ireland"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Joseph Pike",
+        "text": "“That which may be known of God, is manifest within man.” It is there that Christ teaches His people Himself. The more we keep inward to this school, the more we learn of Christ. The less we keep inward, even when involved in lawful things, the less we learn of Christ. Oh read, you that can read in the mystery of life! There is no safety, no preservation, no growing in the Truth, but in true humility, keeping inward to the gift of the Holy Spirit of Christ, continually watching in the light against the temptations of the enemy."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "14f4fcbb-1027-4364-977e-5a2aba92a827",
+        "description": "Towards the end of his life, Joseph Pike maintained an ongoing written correspondence with Deborah Bell, finding in her one who rightly discerned the condition of the church, and shared his burden to see all believers walk in a way that adorned the gospel of Christ."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Cork",
+      "region": "Ireland"
+    },
+    "added": "2018-11-12T16:52:05.000Z",
+    "documents": [
+      "f9356ff3-a098-45b1-9ed2-022790240c01"
+    ]
+  },
+  "c37e8c43-d3b0-4cff-856c-c6981f841528": {
+    "id": "c37e8c43-d3b0-4cff-856c-c6981f841528",
+    "lang": "en",
+    "born": 1743,
+    "died": 1817,
+    "description": "​Martha Routh (1743-1817) was working as the principal of a Friend’s boarding school in Nottingham, England when, at age of 30, she was called by the Lord to travel in the work of the ministry. The remaining 44 years of her life were devoted to preaching the gospel throughout all parts of England, Wales, Scotland, Ireland, and America. Her first trip to America was in 1794, where she labored for over three years, traveling over 11,000 miles, before returning to her native country. She returned to America in 1801 with her husband (who died shortly after his arrival in New York). Martha Routh’s life and ministry were exemplary in every respect, and her preaching was “in demonstration of the Spirit and of power.”",
+    "hasNonDraftDocument": true,
+    "name": "Martha Routh",
+    "gender": "female",
+    "slug": "martha-routh",
+    "path": "en/martha-routh",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Routh, Martha",
+    "residences": [
+      {
+        "city": "Stourbridge",
+        "region": "England"
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "84ca0ff5-f17c-49ff-9bde-6c9f67a6a352",
+        "description": "During a great part of her first trip to the United States, Martha Routh was often a companion in the work of the ministry to John Wigham, whom she frequently mentions with great esteem in her journal, calling him her “valued friend and brother in gospel fellowship.”"
+      },
+      {
+        "id": "45dca7c2-3ff9-4a83-acdf-55ec1630cb25",
+        "description": "Though a native of England, Martha Routh spent many years in America in the service of the gospel, where she met and befriended that humble but highly-esteemed minister of Christ, Rebecca Jones. Rebecca’s journal makes many reference to Martha Routh, and includes several letters written to her on various occasions."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Stourbridge",
+      "region": "England"
+    },
+    "added": "2018-11-12T17:01:31.000Z",
+    "documents": [
+      "932ed314-b6c2-48c4-b4d8-19ca31d0db49"
+    ]
+  },
+  "e0af1dbc-cf6c-41ad-b342-067583ae1867": {
+    "id": "e0af1dbc-cf6c-41ad-b342-067583ae1867",
+    "lang": "en",
+    "born": 1760,
+    "died": 1809,
+    "description": "Before Mary Alexander (1760-1809) had attained to the age of seventeen years, she was impressed with a strong apprehension that, if faithful to the manifestations of the Holy Spirit, she would be called to the work of the ministry. But having a low opinion of herself, and feeling entirely unprepared for so important a work, she was for many years reluctant to give up to the Lord’s clear leading. However, finding His Word in her heart to “like a burning fire shut up in her bones,” she at last yielded to His call and began traveling and preaching throughout England, Scotland, and Wales as the Lord gave her utterance. Mary Alexander was known to be a woman of deep humility and uncommon spiritual understanding, and one whose life was unreservedly dedicated to her Master’s cause.",
+    "hasNonDraftDocument": true,
+    "name": "Mary Alexander",
+    "gender": "female",
+    "slug": "mary-alexander",
+    "path": "en/mary-alexander",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Alexander, Mary",
+    "residences": [
+      {
+        "city": "Needham Market",
+        "region": "England"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Needham Market",
+      "region": "England"
+    },
+    "added": "2019-09-26T15:27:06.000Z",
+    "documents": [
+      "4cd93994-8176-4269-aae3-63eb68fdef28"
+    ]
+  },
+  "cad036aa-1c1f-4c3c-b3e6-83101a2b9192": {
+    "id": "cad036aa-1c1f-4c3c-b3e6-83101a2b9192",
+    "lang": "en",
+    "born": 1813,
+    "died": 1838,
+    "description": "The short life of Mary Ann Gilpin (1813-1838) is a beautiful and compelling testimony to the powerful operation of the Spirit of Truth upon any heart that is “humble, contrite, and trembles at His Word.” Bowing her neck to the yoke of Christ at a young age, this extraordinary young woman was led step by step through the wilderness of this world, through great losses and painful trials, unto a true growth in grace and a steadfastness in faith. She finished her race in her 25th year, having fought the good fight, kept the faith, and left behind her an “aroma of life”—the sweet fragrance of the knowledge of her Lord and Savior Jesus Christ.",
+    "hasNonDraftDocument": true,
+    "name": "Mary Ann Gilpin",
+    "gender": "female",
+    "slug": "mary-ann-gilpin",
+    "path": "en/mary-ann-gilpin",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Gilpin, Mary Ann",
+    "residences": [
+      {
+        "city": "Bristol",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Mary Ann Gilpin (on her deathbed)",
+        "text": "Oh let me once more entreat you to live as strangers and pilgrims here; and to seek, with increasing earnestness, a preparation for an enduring inheritance in that happy land, where, I humbly trust, through redeeming mercy, I am hastening."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Bristol",
+      "region": "England"
+    },
+    "added": "2019-05-06T16:31:31.000Z",
+    "documents": [
+      "8e66ed6c-5a9f-4842-91c3-4d2b32b02e93"
+    ]
+  },
+  "5b448161-953f-4196-a1e4-e07fd5d48412": {
+    "id": "5b448161-953f-4196-a1e4-e07fd5d48412",
+    "lang": "en",
+    "born": 1789,
+    "died": 1873,
+    "description": "Mary Ann Kelty (1789-1873) was a teacher and author in England who appears to have discovered the writings of early Friends later in her life. Though she plainly shows herself to be in perfect accord with the principles and practices of the primitive Quakers, she lived in a time of great declension from the original purity and power in the Society, and probably for that reason, never formally joined with them in membership (though she is said to have frequently attended the Friends’ meeting house at Peckham). Her book “The Lives and Persecutions of the Primitive Quakers” is a very well-written, short history of the early Society of Friends, highlighting the most noteworthy figures and remarkable events of that time.",
+    "hasNonDraftDocument": true,
+    "name": "Mary Ann Kelty",
+    "gender": "female",
+    "slug": "mary-ann-kelty",
+    "path": "en/mary-ann-kelty",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Kelty, Mary Ann",
+    "residences": [
+      {
+        "city": "Peckham",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Mary Ann Kelty",
+        "text": "Permit the word of exhortation, upon a point wherein it seems to me you are in some danger—it is that of mixing up the pure, distinct, interior principle of faith in the gift of God, as an invisible and spiritual thing, only to be known, apprehended, believed in, felt, and obeyed, by the inward senses of the new-born creature—-I say, it is to be feared, that you mix and confound this precious, living thing, with the notional, historical knowledge, which is to be picked up from the letter that describes it."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "69c5fc26-76e3-4302-964e-ba46d889003b",
+        "description": "Both the lives and the sufferings of the Friends mentioned in Mary Ann Kelty’s history, are related in much greater detail in William Sewel’s classic “History of the Rise, Increase, and Progress of that Christian People Called Quakers.”"
+      }
+    ],
+    "primaryResidence": {
+      "city": "Peckham",
+      "region": "England"
+    },
+    "added": "2018-11-12T17:14:02.000Z",
+    "documents": [
+      "92d2a0ab-55d5-4fc1-aaf6-f003b172898d"
+    ]
+  },
+  "c7ee8fdf-6cb7-4619-b3e3-6f12144e475f": {
+    "id": "c7ee8fdf-6cb7-4619-b3e3-6f12144e475f",
+    "lang": "en",
+    "born": 1755,
+    "died": 1845,
+    "description": "Mary Capper (1755-1845) was raised up in the strict observance of the rites and ceremonies of the church of England, but found her heart longing for a greater experience of the inward life and power of the gospel. Upon being convinced of the principles of Friends, she was told by her father “not to return to the parental roof” until she would conform to the religious education that she had been given. But finding that true peace of mind depended upon simple obedience to the Lord’s requirements, she continued in faithful adherence to the way of the cross, and in time could boldly testify that “every sacrifice made in obedience, was rewarded a hundred fold.”",
+    "hasNonDraftDocument": true,
+    "name": "Mary Capper",
+    "gender": "female",
+    "slug": "mary-capper",
+    "path": "en/mary-capper",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Capper, Mary",
+    "residences": [
+      {
+        "city": "Birmingham",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Sarah L. Grubb (in a letter to Mary Capper)",
+        "text": "Oh, how truly cheering it is to witness and contemplate the state in which Divine Goodness has kept you to this day! I can look back to my childhood, when I first saw with wonder the tears flowing from your eyes in meetings; when you were an example to many of nobly denying self, taking up the cross, and following Him."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Birmingham",
+      "region": "England"
+    },
+    "added": "2020-01-14T17:48:57.000Z",
+    "documents": [
+      "a64bc50d-4a4c-47ad-9e83-d72bbf5363b7"
+    ]
+  },
+  "55dab152-9cb3-4e80-839e-40fe0ebbdd78": {
+    "id": "55dab152-9cb3-4e80-839e-40fe0ebbdd78",
+    "lang": "en",
+    "born": 1750,
+    "died": 1823,
+    "description": "Mary Dudley (1750-1823) was a seeker of truth and righteousness from her earliest days. When around 20 years old, she joined the Methodists for two or three years, and was much esteemed by John Wesley for her humble devotion and pious example. Before long, however, she began to feel that their active and outward zeal was not compatible with the spiritual poverty she felt in herself, and the great need she had seen for total dependence upon the Spirit of God for all true worship and ministry. Finding a home among the Quakers, she grew to become a powerful minister and a “mother in Israel,” traveling often, and pointing many hearts to the covenant of light and life in Jesus Christ.",
+    "hasNonDraftDocument": true,
+    "name": "Mary Dudley",
+    "gender": "female",
+    "slug": "mary-dudley",
+    "path": "en/mary-dudley",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Dudley, Mary",
+    "residences": [
+      {
+        "city": "Bristol",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1750,
+            "end": 1777
+          }
+        ]
+      },
+      {
+        "city": "Clonmel",
+        "region": "Ireland",
+        "durations": [
+          {
+            "start": 1777,
+            "end": 1810
+          }
+        ]
+      },
+      {
+        "city": "London",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1810,
+            "end": 1823
+          }
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Mary Dudley",
+        "text": "His name was called Jesus, because He should save His people from their sins, not in them; so that, notwithstanding all that Christ Jesus has done and suffered for us, and that His love is offered to us universally, we really know Him not as a Savior and Redeemer, but in proportion as we are saved by Him from that evil seed which leads into transgression."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "0af1efec-461d-4936-bf91-cc0f44a60bd9",
+        "description": "Though not mentioned in her journal, Thomas Scattergood was an intimate friend and frequent companion of Mary Dudley during his six years of ministerial labor in Europe. Scattergood’s journal contains several letters from Mary, and frequently mentions being encouraged by her words and assisted by her sympathy in his uncommon trials."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Clonmel",
+      "region": "Ireland",
+      "durations": [
+        {
+          "start": 1777,
+          "end": 1810
+        }
+      ]
+    },
+    "added": "2019-05-06T18:27:30.000Z",
+    "documents": [
+      "468770bf-aae5-4c4a-a2b3-41d978f3dd72"
+    ]
+  },
+  "7390bce7-827a-4885-98bb-ec22579c5adb": {
+    "id": "7390bce7-827a-4885-98bb-ec22579c5adb",
+    "lang": "en",
+    "born": 1758,
+    "died": 1840,
+    "description": "Mary Hagger (1758-1840) was raised by pious parents, and being of a meek and humble disposition, was early visited by the power of the Lord, though at the time she says, “I knew not what it was that so sweetened and tendered my heart.” Faithfully yielding to the convictions and instructions of grace, she was prepared by the Lord as a vessel for His service. But when she felt it required of her to bear public testimony to the goodness of the Lord, for many years the language of her heart was, “Send by whom you will send, but not by me.” However, in the latter part of her life she was at last made willing to speak as the Lord enabled her, and became an instrument of usefulness in the church.",
+    "hasNonDraftDocument": true,
+    "name": "Mary Hagger",
+    "gender": "female",
+    "slug": "mary-hagger",
+    "path": "en/mary-hagger",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Hagger, Mary",
+    "residences": [
+      {
+        "city": "Ashford",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Mary Hagger (upon her deathbed)",
+        "text": "Oh my dear children, may you never rest but in the wrestling of the soul, until He has fully redeemed you, until He has finished the work He has begun in you. Oh! from my dying bed, I beg of you, that it may be the earnest breathing of your souls, that you may be redeemed from the perishing things of time, and that your affections may be fixed upon eternity. Oh, eternity! Oh, the length of eternity! Oh, that it may be impressed on every heart the length of eternity! There is no end!"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Ashford",
+      "region": "England"
+    },
+    "added": "2019-11-25T17:33:08.000Z",
+    "documents": [
+      "53f7cdb3-6c11-47d2-9a5d-0fcd41b5ab57"
+    ]
+  },
+  "a46a9ccb-c179-4a05-bad4-78f161e367f7": {
+    "id": "a46a9ccb-c179-4a05-bad4-78f161e367f7",
+    "lang": "en",
+    "born": 1717,
+    "died": 1757,
+    "description": "Mary Neale (1717-1757), dying suddenly only three days after her marriage to Samuel Neale, is best known by her maiden name, Mary Peisley. Having been early turned from the pursuit of worldly pleasures and vanities by the inward appearing of the Lord Jesus, Mary Neale surrendered all to the cross of Christ and was made by Him a shining example of a true gospel minister. Of her life, James Gough (another highly esteemed minister in the Society of Friends) wrote, “I am ready to conclude that no one in our day, from the time of the effectual visitation of Christ in her soul, adhered with more steadiness to His guidance, through a variety of probations.”",
+    "hasNonDraftDocument": true,
+    "name": "Mary Peisley Neale",
+    "gender": "female",
+    "slug": "mary-peisley-neale",
+    "path": "en/mary-peisley-neale",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Neale, Mary Peisley",
+    "residences": [
+      {
+        "city": "Ballymore",
+        "region": "Ireland"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "James Gough",
+        "text": "I am ready to conclude that no one in our day, from the time of the effectual visitation of Christ in her soul, adhered with more steadiness to His guidance, through a variety of probations."
+      },
+      {
+        "source": "Mary Peisley",
+        "text": "I know there is a kingdom of heaven, because I already feel it within me,—Christ in me, as said the apostle, the hope of glory; and because He lives, I live also; not merely an animal life which must perish, but a life hid with Christ in God."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "0e7ca047-14ff-4883-8977-877d36632d11",
+        "description": "Mary Peisley and Catherine Payton were companions together in the bonds of the gospel, and their unity in the living Truth was strong and deep. They often travelled together in the work of the ministry, and were considered by many to be two of the most eminent ministers of their time."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Ballymore",
+      "region": "Ireland"
+    },
+    "added": "2018-11-16T20:25:28.000Z",
+    "documents": [
+      "9bd10df3-80aa-4623-b66a-61e00f112b47"
+    ]
+  },
+  "7085b3b3-4600-4c4d-aa99-091dc2ac9b0c": {
+    "id": "7085b3b3-4600-4c4d-aa99-091dc2ac9b0c",
+    "lang": "en",
+    "born": 1636,
+    "died": 1710,
+    "description": "Oliver Sansom (1636-1710) was an early minister in the Society of Friends, whose heart was first awakened to the Truth while reading a work of Isaac Penington’s entitled, “The Way of Life and Death Made Manifest and Set Before Men.” Feeling it required of him to break off from the national church, with its man-made traditions and obligatory tithes, he became the target of great persecution, and spent many years in jail. Speaking of him after his death, Thomas Ellwood wrote, “I have this testimony to bear of his honest and innocent life; he was a good steward of his Master’s treasures, a faithful dispenser of divine mysteries committed to him, an inward and heavenly-minded man. He was more in substance than in show, greater in power than in expression, a man of a meek and quiet spirit, yet full zeal—who lived and died a servant of the Lord.”",
+    "hasNonDraftDocument": true,
+    "name": "Oliver Sansom",
+    "gender": "male",
+    "slug": "oliver-sansom",
+    "path": "en/oliver-sansom",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Sansom, Oliver",
+    "residences": [
+      {
+        "city": "Abingdon",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Thomas Ellwood",
+        "text": "[Oliver Sansom] was a good steward of his Master’s treasures; a faithful dispenser of the divine mysteries committed to him; an inward and heavenly-minded man, more in substance than in show; greater in power than in expression; a man meek and quiet in spirit, yet full in zeal."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Abingdon",
+      "region": "England"
+    },
+    "added": "2019-11-25T17:13:11.000Z",
+    "documents": [
+      "67f4202e-ceff-402c-ad33-c1cb530dd247"
+    ]
+  },
+  "ec432610-e85a-4818-a926-228580f45cec": {
+    "id": "ec432610-e85a-4818-a926-228580f45cec",
+    "lang": "en",
+    "born": 1772,
+    "died": 1852,
+    "description": "It is said of Rebecca Hubbs (1772-1852), that though she was not highly educated or gifted for literary conversation, and though she had a very humble view of herself in every way, yet her ministry savored richly of the power of the anointing, conveyed “not in the words which man’s wisdom teaches, but which the Holy Spirit teaches.” Indeed, she was a clear instance of the Lord’s power made perfect in weakness, and was used of the Lord in some remarkable ways, including a personal visit to president James Madison, to declare unto him the burden of word of the Lord that weighed heavily on her heart.",
+    "hasNonDraftDocument": true,
+    "name": "Rebecca Hubbs",
+    "gender": "female",
+    "slug": "rebecca-hubbs",
+    "path": "en/rebecca-hubbs",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Hubbs, Rebecca",
+    "residences": [
+      {
+        "city": "Woodstown",
+        "region": "New Jersey"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "William Evans",
+        "text": "Set off for Woodbury, and called to see our aged friend Rebecca Hubbs; confined from the effects of paralysis. She is an extraordinary instance of the power of Divine grace, in preparing one of little knowledge, who has been faithful to its teachings, for usefulness in the church; and having received a gift in the ministry, enabling her at times to exercise it in an extraordinary manner."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Woodstown",
+      "region": "New Jersey"
+    },
+    "added": "2019-05-29T17:20:33.000Z",
+    "documents": [
+      "c7ef46fd-ed93-471e-971a-32b2e4d8558e"
+    ]
+  },
+  "d4473761-5eec-49a8-8be3-109ec6b37ece": {
+    "id": "d4473761-5eec-49a8-8be3-109ec6b37ece",
+    "lang": "en",
+    "born": 1739,
+    "died": 1818,
+    "description": "Words fail to describe the beautiful life and heart-tendering ministry of Rebecca Jones (1739-1818). When still a child, her eyes were opened to see the “ancient path” through the powerful preaching of Catherine Payton; and persevering in it all the days of her long and fruitful life, she was made a “vessel for honor, sanctified and useful to the Master, prepared for every good work.” Her diary and letters are both endearing and instructive, telling the story of a meek disciple, a tireless minister, a loving “mother in Israel”, a powerful preacher, and a shining example of every Christian virtue.",
+    "hasNonDraftDocument": true,
+    "name": "Rebecca Jones",
+    "gender": "female",
+    "slug": "rebecca-jones",
+    "path": "en/rebecca-jones",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Jones, Rebecca",
+    "residences": [
+      {
+        "city": "Philadelphia",
+        "region": "Pennsylvania"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "William Evans",
+        "text": "Rebecca Jones, a minister and mother in Israel (who had paid a religious visit to Friends in England and was highly esteemed by her contemporaries for religious experience, sound judgment and spiritual discernment) resided in this city, and her house was frequented by ministers and elders, and by younger members coming under the love of the Truth, who sought the benefit of her counsel and instructive conversation."
+      },
+      {
+        "source": "Captain Thomas Truxton (after crossing the Atlantic with Rebecca Jones)",
+        "text": "I have brought over an American Quaker lady who possessed more sense than both Houses of Parliament."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "0af1efec-461d-4936-bf91-cc0f44a60bd9",
+        "description": "Thomas Scattergood and Rebecca Jones, both natives of Philadelphia, were intimate friends and esteemed companions in the work of the ministry. Thomas’s journal contains several letters from this valued friend, and mentions the help received from her deep understanding and sometimes prophetic counsel."
+      },
+      {
+        "id": "d106a18d-6092-4628-a1ec-822f68127743",
+        "description": "During a lengthy ministry trip to Great Britain, Sarah Grubb spent many weeks traveling and ministering with Rebecca Jones, many details of which she relates in her journal. The two became cemented in a deep bond of friendship and kept up a correspondence that lasted until Sarah’s death."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Philadelphia",
+      "region": "Pennsylvania"
+    },
+    "added": "2018-11-16T20:22:25.000Z",
+    "documents": [
+      "45dca7c2-3ff9-4a83-acdf-55ec1630cb25"
+    ]
+  },
+  "fa0aa8d3-c8ad-421b-89bf-38db7077426e": {
+    "id": "fa0aa8d3-c8ad-421b-89bf-38db7077426e",
+    "lang": "en",
+    "born": 1635,
+    "died": 1708,
+    "description": "Richard Davies (1635–1708) was a man who desperately sought after Truth from his earliest days, and became the first Welshmen to be convinced of the principles preached by the Early Quakers. Through many hardships (beatings, mockings, long imprisonments, etc.) he grew up in the Lord and became an eminent minister in the Society of Friends, being so filled with the Lord’s humility and love that even his enemies respected and admired him.",
+    "hasNonDraftDocument": true,
+    "name": "Richard Davies",
+    "gender": "male",
+    "slug": "richard-davies",
+    "path": "en/richard-davies",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Davies, Richard",
+    "residences": [
+      {
+        "city": "Welshpool",
+        "region": "Wales"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "George Whitehead",
+        "text": "[Richard Davies] was not only a professor of the name, power, and spirit of our blessed Lord and Saviour Jesus Christ, but also made a partaker of Christ, in spirit, life, and conduct; a plain, meek, and humble man of integrity; a man fearing God and hating iniquity; a man sanctified by the Holy Spirit, unto unfeigned and constant love of his brethren in Christ."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Welshpool",
+      "region": "Wales"
+    },
+    "added": "2018-11-16T20:33:16.000Z",
+    "documents": [
+      "dfda01ed-36ec-4b37-96fd-9e23b0352fa1"
+    ]
+  },
+  "e875433e-57d2-497a-b811-069479c6b1a1": {
+    "id": "e875433e-57d2-497a-b811-069479c6b1a1",
+    "lang": "en",
+    "born": 1756,
+    "died": 1826,
+    "description": "Richard Jordan (1756-1826) was awakened by a tenderizing visitation of the Holy Spirit when only twelve years old, and enabled to surrender himself entirely to the transforming and refining baptism of Jesus Christ. He was called to preach the gospel when twenty-five years of age, but for a long time his appearances in the ministry were short and infrequent, feeling a dread lest he should “shoot out into the branches” without first knowing “an establishment in the Root of immortal life.” Being faithful in the little, his gift in the ministry grew, and he became one who preached in the demonstration of the Spirit and of power, clearly opening to individuals their states and conditions, and inviting all to peace with God through the effectual operation of the cross of Jesus Christ.",
+    "hasNonDraftDocument": true,
+    "name": "Richard Jordan",
+    "gender": "male",
+    "slug": "richard-jordan",
+    "path": "en/richard-jordan",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Jordan, Richard",
+    "residences": [
+      {
+        "city": "Newton",
+        "region": "New Jersey"
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Newton",
+      "region": "New Jersey"
+    },
+    "added": "2019-04-29T15:46:54.000Z",
+    "documents": [
+      "49084c34-f64e-4316-b238-49b7a37e5a8a"
+    ]
+  },
+  "105b22b5-0d97-422d-821f-becefa9482a0": {
+    "id": "105b22b5-0d97-422d-821f-becefa9482a0",
+    "lang": "en",
+    "born": 1648,
+    "died": 1690,
+    "description": "Robert Barclay (1648–1690) was born into opulence and educated in some of the finest schools of the time, where his natural genius gained the admiration of both teachers and peers. But at seventeen years of age, upon entering a meeting of the people called Quakers, he said, “I felt a secret power among them which touched my heart.” And as he abode under the powerful operations of grace, he “came to receive and bear witness of the Truth,” not being convinced “by strength of argument, or by a particular discussion of each doctrine, but by being secretly reached by Life.” Barclay’s Apology for the True Christian Divinity was first published in 1675, and came to be considered the definitive exposition and defense of Quaker principles for the next 200 years.",
+    "hasNonDraftDocument": true,
+    "name": "Robert Barclay",
+    "gender": "male",
+    "slug": "robert-barclay",
+    "path": "en/robert-barclay",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Barclay, Robert",
+    "residences": [
+      {
+        "city": "Aberdeenshire",
+        "region": "Scotland"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "William Sewel",
+        "text": "Though [Robert Barclay’s] natural abilities were great enough to have made him surpass others in human learning, and so to have become famous among men, yet he so little valued that knowledge, that he in no way endeavored to be distinguished on that account. But his chief aim was to advance in real godliness, as the fellowship I had with him has undoubtedly assured me; for I was well acquainted with him."
+      },
+      {
+        "source": "Robert Barclay",
+        "text": "For what I have written comes more from my heart than from my head; from what I have heard with the ears of my soul and seen with my inward eyes, and my hands have handled of the Word of Life. What has been inwardly manifested to me of the things of God, that do I declare; not so much minding the eloquence and excellency of speech, as desiring to demonstrate the efficacy and operation of Truth."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Aberdeenshire",
+      "region": "Scotland"
+    },
+    "added": "2018-12-14T17:34:40.000Z",
+    "documents": [
+      "f869e6e5-c5a2-4bdf-96bb-1c4dc13dad2f",
+      "a0aa67e3-e96e-44ea-a90c-db739d54eba6",
+      "a8da908c-c9b4-4583-a2a3-ee460a90a4b9",
+      "fea5c7ff-bd6f-4c46-b928-c3b4fb1a04e6"
+    ]
+  },
+  "7f083eb6-674f-4cc8-843b-8d4edd15a345": {
+    "id": "7f083eb6-674f-4cc8-843b-8d4edd15a345",
+    "lang": "en",
+    "born": 1676,
+    "died": 1753,
+    "description": "As a young man, Samuel Bownas (1676-1753) was awakened to his lost condition through the powerful ministry of a young woman named Anne Wilson who, pointing to him in a meeting, told him he was but “a Quaker by tradition,” and a stranger to the transforming power of the gospel. Knowing this to be true, Bownas was cut to the quick, and so fervently turned to the Lord that both his heart and his conduct were greatly altered in a short time. Continuing in faithful submission to the Light of Christ, he became a minister and a sufferer for the gospel, traveling frequently in Great Britain and the American colonies, and being several times imprisoned for the testimony of Jesus Christ. Bownas was particularly conspicuous for his deep understanding concerning the work of the ministry, and became the author of a highly-regarded book entitled, “A Description of the Qualifications Necessary to a Gospel Minister.”",
+    "hasNonDraftDocument": true,
+    "name": "Samuel Bownas",
+    "gender": "male",
+    "slug": "samuel-bownas",
+    "path": "en/samuel-bownas",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Bownas, Samuel",
+    "residences": [
+      {
+        "city": "Bridport",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Thomas Story",
+        "text": "Our friend Samuel Bownas, that able and experienced minister of the gospel, being there, I was also comforted in his ministry, as were many more both there and at Bristol."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Bridport",
+      "region": "England"
+    },
+    "added": "2019-09-24T23:19:00.000Z",
+    "documents": [
+      "51303b80-b6c1-4d45-a740-bf3eaf0767e4"
+    ]
+  },
+  "156aead1-a1b5-40bb-815b-6539e20bd459": {
+    "id": "156aead1-a1b5-40bb-815b-6539e20bd459",
+    "lang": "en",
+    "born": 1670,
+    "died": 1704,
+    "description": "Samuel Crisp (1670—1704) was a brilliant young priest in the Church of England whose hunger for truth and righteousness led him to leave off all formal, shadowy religion and join with the despised people called Quakers to worship God in spirit and truth. This short document consists chiefly of two letters written by Crisp explaining his reasons for leaving the national worship, and describing how the Lord revealed His Son in him, “at the brightness of whose appearance the clouds are scattered and the shadows flee away.”",
+    "hasNonDraftDocument": true,
+    "name": "Samuel Crisp",
+    "gender": "male",
+    "slug": "samuel-crisp",
+    "path": "en/samuel-crisp",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Crisp, Samuel",
+    "residences": [
+      {
+        "city": "London",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Samuel Bownas",
+        "text": "I set out, having in company a young man who had been bred at college, whose name was Samuel Crisp; a meek spirited youth, having received the knowledge of the truth the right way."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "London",
+      "region": "England"
+    },
+    "added": "2018-12-14T12:37:47.000Z",
+    "documents": [
+      "99ecfc4d-8a51-411d-805e-f5243d4879ed"
+    ]
+  },
+  "0691bc74-ea85-4582-bf30-2412ba0ac133": {
+    "id": "0691bc74-ea85-4582-bf30-2412ba0ac133",
+    "lang": "en",
+    "born": 1715,
+    "died": 1772,
+    "description": "​Samuel Fothergill (1715-1772) was the youngest son of eminent Quaker minister, John Fothergill. As a young man, Samuel yielded to various temptations, “giving way to the indulgence of his evil passions, and abandoning himself to the pursuit of folly and dissipation.” So great was his rebellion against the Truth, that his father, upon embarking on a long trip to America, took leave of him with these words—“And now, son Samuel, farewell!—farewell!; and unless it be as a changed man, I cannot say that I have any wish ever to see you again.” These words pierced Samuel’s heart, and were used of the Lord as a means to turn him to the path of repentance and conversion. Feeling the terrors of the Lord for sin, Samuel was made willing to abide under His righteous judgments, and so yielded to the transforming power of divine grace that, in time, he became one of the most distinguished and influential ministers of his day.",
+    "hasNonDraftDocument": true,
+    "name": "Samuel Fothergill",
+    "gender": "male",
+    "slug": "samuel-fothergill",
+    "path": "en/samuel-fothergill",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Fothergill, Samuel",
+    "residences": [
+      {
+        "city": "Warrington",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "James Gough",
+        "text": "Here also, I met with Samuel Fothergill, then young in the ministry; but even then appearing with a solemnity, brightness, and gospel authority, which gave friends lively hopes of his proving, as he did, through the succeeding stages of his life, a bright and shining light, a vessel of honour indeed, of eminent service in the church of Christ."
+      },
+      {
+        "source": "Samuel Fothergill",
+        "text": "The passionate preacher has affected the passionate hearer; both have been in raptures, and neither of them edified. Mistake not the warmth of the passions for the gospel authority. The first is like the rattling thunder, which frights, but never hurts; the last is like the lightning from the east, which illuminates, and, at times, breaks through all opposition and melts every obstruction."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "b74bd655-8907-4484-a3bd-a658b3267dea",
+        "description": "Samuel Fothergill was the son of the well-known and much beloved minister of the gospel, John Fothergill. Some account of his father is prefixed to Samuel’s memoir, but “The Life and Letters of John Fothergill” has a larger autobiographical portion, and a sizable collection of letters to friends and epistles to churches."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Warrington",
+      "region": "England"
+    },
+    "added": "2018-12-14T17:42:45.000Z",
+    "documents": [
+      "53f21a86-f264-460f-b879-3cd4a7ddf615"
+    ]
+  },
+  "ecf66297-d101-4875-aea4-0932bbd8673b": {
+    "id": "ecf66297-d101-4875-aea4-0932bbd8673b",
+    "lang": "en",
+    "born": 1729,
+    "died": 1792,
+    "description": "​At the age of twenty-two, Samuel Neale (1729-1792) was powerfully impacted by the ministry of Catharine Payton and Mary Peisley (his future wife) while they were ministering in the city of Dublin, Ireland. Having seen and felt that he was traveling on the broad path that leads to destruction, Samuel Neale set his heart to “wait upon the Lord in the way of His judgments.” Having become acquainted with the true baptism of Christ (that of Spirit and fire), he was soon called into the ministry, and labored diligently for the remainder of his life. His journal and letters demonstrate all of the sweetness, humility, and wisdom of a true disciple of Jesus Christ.",
+    "hasNonDraftDocument": true,
+    "name": "Samuel Neale",
+    "gender": "male",
+    "slug": "samuel-neale",
+    "path": "en/samuel-neale",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Neale, Samuel",
+    "residences": [
+      {
+        "city": "Cork",
+        "region": "Ireland"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Mary Leadbeater (daughter of Richard and Elizabeth Shackleton)",
+        "text": "Samuel Neale, who had been forgiven much, loved much; and having been obedient to the heavenly vision, became a vessel of honour, replenished with good, and pouring it forth for the refreshment of others. He was one, who, remembering the trials which attend youth, felt compassion for them; and in advanced life, his winning affability towards young persons, his fatherly love and care, his heart and house open to receive them, made a deep impression on their minds, from which many received lasting advantage."
+      },
+      {
+        "source": "Abraham Shackleton (in a letter to Samuel Neale)",
+        "text": "I have been greatly pleased formerly, when favoured with your company, to observe the watchful care that clothed you, even in the times of enlargement and liberty of spirit, lest any word or unguarded expression should inadvertently pass from you, to wound or administer offence, in any way, to the least babe in Christ."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "9bd10df3-80aa-4623-b66a-61e00f112b47",
+        "description": "When twenty-two years of age, Samuel Neale was powerfully impacted by the ministry of Catherine Payton and Mary Peisley at a meeting in Dublin. Spending much time with these “heavenly messengers”, Mary Peisley became a beloved friend and spiritual confidant, and the two were married in 1757."
+      },
+      {
+        "id": "20c95c47-62dd-4181-b6e7-dcd8142626ca",
+        "description": "Meeting Joseph Oxley as he passed through Ireland in the work of the ministry, Samuel Neale “felt an attracting draft of uniting love draw me to accompany him” in some further gospel labors. Neale became closely bound to this “agreeable, sweet-spirited friend,” and the two of them were later companions in the ministry during an extended trip to America."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Cork",
+      "region": "Ireland"
+    },
+    "added": "2018-12-27T14:45:57.000Z",
+    "documents": [
+      "c3428a4c-4a2f-480b-8612-f96e104914dd"
+    ]
+  },
+  "a208b4cd-d73e-496a-a73d-bf7386c270e8": {
+    "id": "a208b4cd-d73e-496a-a73d-bf7386c270e8",
+    "lang": "en",
+    "born": 1762,
+    "died": 1848,
+    "description": "Samuel Rundell (1762 - 1848) was a wool-dealer who lived in Liskeard, a small town in southwest England. When young he befriended that worthy elder and “mother in Israel” Catherine Payton (Phillips), whose wisdom and piety no doubt made lasting impressions upon him. As a minister and author, Rundell was particularly concerned to press the necessity of a real and living experience of inward purification by an unreserved obedience to the light or Spirit of Christ working in the heart. Having witnessed its effectual operation in his own soul, he greatly desired to see this scriptural doctrine both upheld amongst his fellow Quakers and more widely known among sincere Christians of every denomination.",
+    "hasNonDraftDocument": true,
+    "name": "Samuel Rundell",
+    "gender": "male",
+    "slug": "samuel-rundell",
+    "path": "en/samuel-rundell",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Rundell, Samuel",
+    "residences": [
+      {
+        "city": "Liskeard",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Samuel Rundell",
+        "text": "Let then every professed Christian be stimulated, not to place his dependence on his being a member of any religious community, but with an anxiety in some degree adequate to the importance of the subject, seek an experiential knowledge of the power of God inwardly revealed; that by submission to its humbling operation, “every mountain and hill (of self-exaltation,) may be brought low;” that so every obstacle to his coming unto Christ, and his partaking of the salvation which is by Him, may be effectually removed."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Liskeard",
+      "region": "England"
+    },
+    "added": "2018-07-24T15:15:44.000Z",
+    "documents": [
+      "d230b8ce-a185-42b5-bdf1-cf54130e2764"
+    ]
+  },
+  "7619ef92-d444-40cf-a8e9-7e7ffc36fe4d": {
+    "id": "7619ef92-d444-40cf-a8e9-7e7ffc36fe4d",
+    "lang": "en",
+    "born": 1756,
+    "died": 1790,
+    "description": "​​Sarah R. Grubb (1756-1790) was a woman of extraordinary natural abilities, strength of judgment, and clearness of discernment. Being favoured with a visitation of heavenly love when young, she submitted to Christ’s refining fire and was brought into that passive condition wherein the vessels in the Lord’s house are formed and fitted for usefulness. Having been early prepared for service, she came forth as a public minister about the twenty-third year of her age. Some years later, she and her husband founded a girls school in Clonmel, Ireland, where she lived and ministered until her death in 1790, at only 34 years of age.",
+    "hasNonDraftDocument": true,
+    "name": "Sarah Grubb",
+    "gender": "female",
+    "slug": "sarah-grubb",
+    "path": "en/sarah-grubb",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Grubb, Sarah",
+    "residences": [
+      {
+        "city": "York",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1756,
+            "end": 1787
+          }
+        ]
+      },
+      {
+        "city": "Clonmel",
+        "region": "Ireland",
+        "durations": [
+          {
+            "start": 1787,
+            "end": 1790
+          }
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "source": "George Dillwyn (upon the death of Sarah Grubb)",
+        "text": "Thus fell a valiant in the church militant, whose endowments and dedication are equalled by few of the present generation, and to whose memory, I believe, as general a tribute of tears has been paid, as to any person with whom I was ever acquainted."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "45dca7c2-3ff9-4a83-acdf-55ec1630cb25",
+        "description": "During a lengthy ministry trip to Great Britain, Rebecca Jones spent many weeks traveling and ministering with Sarah Grubb, many details of which she relates in her journal. The two became cemented in a deep bond of friendship and kept up a correspondence that lasted until Sarah’s death."
+      },
+      {
+        "id": "468770bf-aae5-4c4a-a2b3-41d978f3dd72",
+        "description": "Mary Dudley was the beloved traveling companion of Sarah Grubb, with whom she “often mingled sighs and tears,” during a lengthy ministry trip through parts of Holland, Germany, and France."
+      }
+    ],
+    "primaryResidence": {
+      "city": "York",
+      "region": "England",
+      "durations": [
+        {
+          "start": 1756,
+          "end": 1787
+        }
+      ]
+    },
+    "added": "2018-12-31T17:51:09.000Z",
+    "documents": [
+      "d106a18d-6092-4628-a1ec-822f68127743"
+    ]
+  },
+  "016cf5e7-fa39-4f21-8026-e2dad7592343": {
+    "id": "016cf5e7-fa39-4f21-8026-e2dad7592343",
+    "lang": "en",
+    "born": 1738,
+    "died": 1802,
+    "description": "The heart of Sarah Stephenson (1738-1802) was turned to the Lord at a very young age. Though raised in a wealthy family where many of the world’s treasures were within reach, she says, “The Lord looked down upon me in love, and and so enamoured my soul with His beauty, that I loved to be alone with Him. O how sweet was His presence!” Submitting herself to the forming hand of grace, she grew deep in heavenly life and spiritual experience, and in addition to ministering in larger gatherings of the Lord’s people, she was used more particularly in visiting individual families, going from house to house and speaking to the conditions of people as the Lord gave her utterance.",
+    "hasNonDraftDocument": true,
+    "name": "Sarah Stephenson",
+    "gender": "female",
+    "slug": "sarah-stephenson",
+    "path": "en/sarah-stephenson",
+    "isMale": false,
+    "isFemale": true,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Stephenson, Sarah",
+    "residences": [
+      {
+        "city": "Liverpool",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Sarah Stephenson (when a child)",
+        "text": "Often have I been led to make a pause, and crave of my heavenly Father, be pleased to make me like unto these your servants, whatever my sufferings in this life may be. If You will be with me in the way that I go, give me bread to eat and raiment to put on, You shall be my God, and I will serve You."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Liverpool",
+      "region": "England"
+    },
+    "added": "2019-11-25T17:48:27.000Z",
+    "documents": [
+      "8b8604f4-042c-46b9-bdf6-a3ad6921164a"
+    ]
+  },
+  "a71f80ff-35e0-4df7-b474-f6bf0fb473c7": {
+    "id": "a71f80ff-35e0-4df7-b474-f6bf0fb473c7",
+    "lang": "en",
+    "born": 1628,
+    "died": 1692,
+    "description": "Stephen Crisp (1628-1692) is an example of one whose desperate search for Truth (lasting twenty long years) at last brought him to an experiential knowledge of the grace and truth that are in Jesus Christ. Having found the Pearl of great price, he sold all to buy it, and became an eminent preacher and writer among the early Society of Friends. For the remaining thirty-five years of his life, he labored in the power and wisdom of the Spirit, traveling throughout England, Scotland, Holland, and Germany, and writing many valuable epistles and treatises to the church in both the English and Dutch languages.",
+    "hasNonDraftDocument": true,
+    "name": "Stephen Crisp",
+    "gender": "male",
+    "slug": "stephen-crisp",
+    "path": "en/stephen-crisp",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Crisp, Stephen",
+    "residences": [
+      {
+        "city": "Colchester",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Samuel Tuke",
+        "text": "There was perhaps, with the exception of George Fox, no individual who had upon him a greater share of the weight and charge of the new Society [of Friends] than Stephen Crisp."
+      },
+      {
+        "source": "Stephen Crisp",
+        "text": "For though it is true that none can obey the Lord but by His grace and power given unto them, yet He has made His grace—-even that grace which brings salvation—-appear unto all men, as is said in Titus 2:11. And this grace has appeared unto you, and in you, to whom I write, and is a reprover in you. You must therefore turn to that which smites you, and then you turn to the grace of God."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Colchester",
+      "region": "England"
+    },
+    "added": "2019-01-02T15:25:40.000Z",
+    "documents": [
+      "0d7bb9f8-b098-4dbd-9780-b32805b43e96",
+      "2eb862e1-cc3e-4588-a504-98db07a85474",
+      "2e80b149-e111-4c8c-ab7a-c5e1ed3861f4",
+      "b63ebb27-7aff-4795-ba5b-fd7f2dfe933e"
+    ]
+  },
+  "91e07656-1b05-47c7-9530-8b5a9bde58aa": {
+    "id": "91e07656-1b05-47c7-9530-8b5a9bde58aa",
+    "lang": "en",
+    "born": 1639,
+    "died": 1714,
+    "description": "​Thomas Ellwood (1639-1714) was a beloved elder and an eminent writer in the early Society of Friends. When a young man, his father took great offense at his joining in society with the despised people called Quakers, and frequently beat him with both fists and cane. At length, Ellwood found refuge in the home of Isaac and Mary Penington, where he came to be considered a member of their family, and eventually served as tutor to the Penington’s young children. Thomas Ellwood is best known among Friends for his many publications in defense of the Truth, and for being the editor of George Fox’s journal.",
+    "hasNonDraftDocument": true,
+    "name": "Thomas Ellwood",
+    "gender": "male",
+    "slug": "thomas-ellwood",
+    "path": "en/thomas-ellwood",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Ellwood, Thomas",
+    "residences": [
+      {
+        "city": "Oxford",
+        "region": "England"
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "c248c2e7-947b-4629-8296-0cdff67a6d99",
+        "description": "Knowing that he was being abused by his father for his obedience to the Truth, Isaac Penington invited young Thomas Ellwood to live in his home and tutor his children. Ellwood remained in this family for several years, and grew to love, esteem, and honor Isaac Penington as an intimate friend and a tender father in the faith."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Oxford",
+      "region": "England"
+    },
+    "added": "2019-01-02T15:35:33.000Z",
+    "documents": [
+      "2ff4c475-b7a6-411f-a960-75edf4bb79fd"
+    ]
+  },
+  "6bb7f835-a11b-44f4-bf93-2c8c89413d5f": {
+    "id": "6bb7f835-a11b-44f4-bf93-2c8c89413d5f",
+    "lang": "en",
+    "born": 1785,
+    "died": 1845,
+    "description": "Thomas Kite (1785-1845) lived in Philadelphia, Pennsylvania, and was a printer by trade. His early years, he says, “were exposed to the influence of bad example, and were marked by many follies,” yet the Lord followed him with the convictions of His Spirit and at last prevailed upon him to make a total surrender. As an adult he travelled much in the work of the ministry, often pressing the necessity of walking “in the old-fashioned way of the cross.” He was a shining example in his generation of both childlike humility and unflinching boldness, contending earnestly for the faith which was once for all delivered to the saints, and remaining faithful to it during the troublesome times of the Hicksite and Gurneyite separations.",
+    "hasNonDraftDocument": true,
+    "name": "Thomas Kite",
+    "gender": "male",
+    "slug": "thomas-kite",
+    "path": "en/thomas-kite",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Kite, Thomas",
+    "residences": [
+      {
+        "city": "Philadelphia",
+        "region": "Pennsylvania"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Thomas Kite",
+        "text": "We were not sent into the world to amuse ourselves, nor to accumulate earthly treasures, nor to gratify our own wills, nor the will of others, but to work out our own salvation with fear and trembling, and to stand devoted to the Lord’s cause in our day and generation."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Philadelphia",
+      "region": "Pennsylvania"
+    },
+    "added": "2019-04-05T19:47:16.000Z",
+    "documents": [
+      "c960e64d-3daf-410d-b028-cbf3d2cb1f77"
+    ]
+  },
+  "cb5e5a1c-f5d9-43e5-852a-7b960d8a318c": {
+    "id": "cb5e5a1c-f5d9-43e5-852a-7b960d8a318c",
+    "lang": "en",
+    "born": 1748,
+    "died": 1814,
+    "description": "Thomas Scattergood (1748 - 1814) was a minister in the Society of Friends who knew what it meant to be “in deaths often,” to be “hard-pressed on every side, yet not crushed; perplexed but not in despair.” But his many seasons of conflict and suffering were clearly made a blessing to him, both as a means of personal preservation from the snares of the enemy, and of preparing him to minister in remarkable power and authority in the presence of large assemblies. Few persons, it is believed, were preserved more steadily in a state of inward watchfulness and retirement of spirit, waiting upon the Lord. And few were enabled to see more clearly, or to minister more pertinently to the states of meetings and individuals. Though he always maintained a low opinion of himself, and spoke rarely and diffidently of the fruits of his ministry, all who knew him heartily testified to the baptizing and convincing power of his gospel labors.",
+    "hasNonDraftDocument": true,
+    "name": "Thomas Scattergood",
+    "gender": "male",
+    "slug": "thomas-scattergood",
+    "path": "en/thomas-scattergood",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Scattergood, Thomas",
+    "residences": [
+      {
+        "city": "Philadelphia",
+        "region": "Pennsylvania"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "William Evans",
+        "text": "My uncle Thomas Scattergood…was not only remarkable for the gift of the ministry of the gospel of life and salvation, but also for the spirit of prophecy, with which he was at times clearly endowed, and under which he often foretold coming events; being a man who lived in the Spirit and walked in the Spirit, and to whom the Lord condescended to make known his secrets relating to the spiritual condition of others, and of his works among the children of men."
+      },
+      {
+        "source": "Ann Branson",
+        "text": "Spent some time this evening reading in the Journal of Thomas Scattergood; and it is renewedly sealed upon my mind that the great exercise and travail of soul that he passed though in England and America, in his ministerial labors, were designed as a particular call and warning to those amongst us in the ministry, not to trust to, or lean to our own understandings in our religious movements. Oh! how abased, how shut up, how exceedingly stripped, tried and tempted, did our Heavenly Father permit him to become, not only for a day or a month, but for months together!"
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "45dca7c2-3ff9-4a83-acdf-55ec1630cb25",
+        "description": "The name Rebecca Jones appears many times throughout the journal of Thomas Scattergood, and it is clear that she played a vital role in his life, both as an intimate friend and sister in the faith, and an encourager in the work of the ministry. It was Rebecca Jones (when bedridden with the Yellow Fever) who confirmed Scattergood’s call to “go over the great waters” to minister to the church in Europe."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Philadelphia",
+      "region": "Pennsylvania"
+    },
+    "added": "2019-01-02T15:59:32.000Z",
+    "documents": [
+      "0af1efec-461d-4936-bf91-cc0f44a60bd9"
+    ]
+  },
+  "9581fa7b-bffd-469a-9b3a-3fcb731a2693": {
+    "id": "9581fa7b-bffd-469a-9b3a-3fcb731a2693",
+    "lang": "en",
+    "born": 1748,
+    "died": 1814,
+    "description": "Thomas Shillitoe (1754-1836) was a man who knew the voice of the Good Shepherd, and followed it unreservedly through even the most trying and perplexing circumstances. For many years, he traveled as a minister (often on foot) all over Great Britain, Europe, Russia, and America, carefully minding all that his Master required of him, whether it involved attending to the most basic needs of the poor and distressed, or meeting with kings, princes, and heads of state. In 1826, he left England for the United States, where he spent several years laboring to uphold the original principles and practices of Friends against the erroneous doctrines and disorderly conduct of Elias Hicks and his adherents.",
+    "hasNonDraftDocument": true,
+    "name": "Thomas Shillitoe",
+    "gender": "male",
+    "slug": "thomas-shillitoe",
+    "path": "en/thomas-shillitoe",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Shillitoe, Thomas",
+    "residences": [
+      {
+        "city": "Tottenham",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Lydia Barclay",
+        "text": "There is a nice book in the bookcase that I know would interest you, “The Life of Thomas Shillitoe,” who was a poor shoemaker, but a faithful minister of the Gospel, who out of much weakness (naturally) was made strong in his Lord, to go through many dangers and labours, and out of a very timid, fearful disposition was made bold as a lion, to stand before kings and princes and the fiercest looking of men."
+      },
+      {
+        "source": "Sarah L. Grubb",
+        "text": "What a journal is Thomas Shillitoe’s! I never found in any one more of attention to Divine guidance in all things, and always; nor more plentiful, blessed results and precious fruit, from being wholly given up to the Lord in body, soul, and spirit; through all perplexity, trouble, and sore exercise of faith and patience. How unspeakably glorious must be the crown he now inherits forever and ever, after bearing his cross so faithfully to the end of time!"
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "3c1f4d2b-cefb-4a8f-a0aa-ad9de657b15f",
+        "description": "In 1824, Thomas Shillitoe went to St. Petersburg, Russia, and frequently attended the small meeting held in the home of his beloved friend Daniel Wheeler. After spending several months in the city, he and Daniel Wheeler traveled together by land some 1600 miles to Rotterdam, Holland."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Tottenham",
+      "region": "England"
+    },
+    "added": "2019-06-25T19:28:43.000Z",
+    "documents": [
+      "9511ab72-9a2e-4c6e-a102-1f46aebbd348"
+    ]
+  },
+  "efbc4dad-18d7-4b15-9a94-26e6ef81686b": {
+    "id": "efbc4dad-18d7-4b15-9a94-26e6ef81686b",
+    "lang": "en",
+    "born": 1662,
+    "died": 1742,
+    "description": "Thomas Story (1662-1742) was an extremely gifted and serviceable minister in the Society of Friends, who traveled all over England, Ireland, Scotland, Holland, Jamaica, Barbados, and the American colonies in his service for the gospel. He was well-known for both his spiritual depth and his intellectual genius. His clear perception of spiritual truth, profound knowledge of Scripture, and facility of expression made him more than a match for the enemies of truth who attempted to slander and oppose the teachings of early Friends. The many compelling doctrinal arguments found in his journal became very influential among Quakers, and will still be read with great benefit by every genuine seeker of truth.",
+    "hasNonDraftDocument": true,
+    "name": "Thomas Story",
+    "gender": "male",
+    "slug": "thomas-story",
+    "path": "en/thomas-story",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Story, Thomas",
+    "residences": [
+      {
+        "city": "Carlisle",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Thomas Story",
+        "text": "But, as the diadem of all, and the only true and certain way, when it pleased the Most High (by the effusion of His own goodness) to reveal in me the Son of His love, even His wisdom and power, by whom He designed and effected all things, then I was taught to fear Him; then I was taught to love him; then, and not rightly till then, was my soul instructed and informed indeed."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Carlisle",
+      "region": "England"
+    },
+    "added": "2019-01-02T16:15:47.000Z",
+    "documents": [
+      "659d4885-daa3-42e1-acc4-827ec5cd0d36",
+      "62e5131b-33a2-425e-8d33-e912b2b9f0ca",
+      "91c346f7-2909-4aca-8987-a96cc41683d1",
+      "dcc2ccc5-0fdb-4dd1-8783-5363bb0b0c27"
+    ]
+  },
+  "5997070a-3c8f-4f00-af4a-154ce56af89a": {
+    "id": "5997070a-3c8f-4f00-af4a-154ce56af89a",
+    "lang": "en",
+    "born": 1654,
+    "died": 1725,
+    "description": "Thomas Wilson (1654-1725) was an esteemed minister in the early Society of Friends, whose dedicated life manifested the “sweet savor of the knowledge of Christ in every place.” As a child, he gave up to follow the Lord out of the vanities of the world, and abiding faithfully under the cross, experienced its power “bringing forth judgment unto victory.” He became a powerful minister of the gospel (often the traveling companion of James Dickinson), whose preaching both pierced the hearts of the humble and confounded the minds of adversaries. His godly example in life, great humility, and self-denial greatly adorned his ministry, and he was made a watchful shepherd over the flock of Christ in England, Ireland, Scotland, and America.",
+    "hasNonDraftDocument": true,
+    "name": "Thomas Wilson",
+    "gender": "male",
+    "slug": "thomas-wilson",
+    "path": "en/thomas-wilson",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Wilson, Thomas",
+    "residences": [
+      {
+        "city": "Whitehaven",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1654,
+            "end": 1695
+          }
+        ]
+      },
+      {
+        "city": "Edenderry",
+        "region": "Ireland",
+        "durations": [
+          {
+            "start": 1695,
+            "end": 1725
+          }
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "source": "James Dickinson",
+        "text": "Though [Thomas Wilson] had a large gift [in the ministry], beyond many, yet he was glad to hear the least child who spoke from the motion of God’s Spirit, having learned to cast down his crown at the feet of the Lamb, for whose exaltation he was given up to spend and be spent."
+      },
+      {
+        "source": "Thomas Story",
+        "text": "In a particular manner, I became nearly united in the divine love and life of truth with my much esteemed friend Thomas Wilson, then of Cumberland, and afterwards of Ireland; who was to me the most able and powerful minister of the Word of Life in the age."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "d0d15232-db51-48fc-a8ed-5e0b206f9a3f",
+        "description": "James Dickinson was Thomas Wilson’s intimate friend and most frequent companion in the work of the ministry. Together they traveled and labored in near gospel fellowship throughout most parts of England, Ireland, Wales, West Indies, and the American Colonies."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Edenderry",
+      "region": "Ireland",
+      "durations": [
+        {
+          "start": 1695,
+          "end": 1725
+        }
+      ]
+    },
+    "added": "2019-03-22T01:44:33.000Z",
+    "documents": [
+      "9acb6df3-765e-47bd-b50c-bab6b3cd7239"
+    ]
+  },
+  "e667086e-adf8-4566-a60f-1659728e6b5c": {
+    "id": "e667086e-adf8-4566-a60f-1659728e6b5c",
+    "lang": "en",
+    "born": 1636,
+    "died": 1665,
+    "description": "William Caton (1636-1665) was just sixteen years old, and residing in the home of Margaret Fell in Swarthmore, when George Fox first came and preached the everlasting gospel in the demonstration of the Spirit and power. Caton was quickly convinced of the truth, and gave up to its purging and sanctifying power. He was made an effectual minister of the gospel before he was twenty years of age, but lived only to his twenty-ninth year. George Fox said of him - “His innocent life preached both righteousness and truth wherever he came, and was a sweet savor to God and in the hearts of the people. He was one who had a care for God’s glory and honor, and for the spreading of the Truth and the prosperity of it. He had many trials and exercises by false brethren, backsliders, and apostates, and among priests and professors, but the Lord gave him dominion over all.”",
+    "hasNonDraftDocument": true,
+    "name": "William Caton",
+    "gender": "male",
+    "slug": "william-caton",
+    "path": "en/william-caton",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Caton, William",
+    "residences": [
+      {
+        "city": "Ulverstone",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1636,
+            "end": 1660
+          }
+        ]
+      },
+      {
+        "city": "Amsterdam",
+        "region": "Netherlands",
+        "durations": [
+          {
+            "start": 1660,
+            "end": 1665
+          }
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "source": "George Fox",
+        "text": "[William Caton] was like unto Timothy, who, after he was converted, was an example both in innocency, simplicity and purity in his life and conduct; for they did preach, as well as his doctrine, in the churches of Christ."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Ulverstone",
+      "region": "England",
+      "durations": [
+        {
+          "start": 1636,
+          "end": 1660
+        }
+      ]
+    },
+    "added": "2019-05-06T17:44:17.000Z",
+    "documents": [
+      "f4781480-fa53-41b6-bdb0-fdecb16089c0"
+    ]
+  },
+  "f96bee20-d10e-49f2-82be-a6b0f348f46e": {
+    "id": "f96bee20-d10e-49f2-82be-a6b0f348f46e",
+    "lang": "en",
+    "born": 1621,
+    "died": 1688,
+    "description": "William Dewsbury (1621-1688) was an eminent minister and elder in the early Society of Friends whose role in the formation and oversight of the Society was comparable to that of George Fox. Like many others in his day, Dewsbury suffered great persecution for the testimony of Jesus Christ, but never played the coward in the face of adversity. Speaking of his nineteen years of wrongful imprisonment, he declared, “I joyfully entered prisons as palaces and sang praises to my God, esteeming the bolts and locks put upon me as jewels.” After visiting William Dewsbury in 1676, John Whiting described him as “an extraordinary man in many ways, and I thought, as exact a pattern of a perfect man as I ever knew.”",
+    "hasNonDraftDocument": true,
+    "name": "William Dewsbury",
+    "gender": "male",
+    "slug": "william-dewsbury",
+    "path": "en/william-dewsbury",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Dewsbury, William",
+    "residences": [
+      {
+        "city": "Allerthorpe",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "John Whiting",
+        "text": "William Dewsbury then dwelt in his own hired house, with whom I had pretty much discourse in his garden of many things to my great comfort and satisfaction; for he was very free and open to me beyond what I could expect, being a young man and a stranger outwardly to him. He told me some things I shall never forget. He was an extraordinary man in many ways, and I thought, as exact a pattern of a perfect man as I ever knew."
+      },
+      {
+        "source": "William Dewsbury",
+        "text": "I joyfully entered prisons as palaces and sang praises to my God, esteeming the bolts and locks put upon me as jewels."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Allerthorpe",
+      "region": "England"
+    },
+    "added": "2019-03-22T02:19:02.000Z",
+    "documents": [
+      "e1f74ba8-b391-4c4e-a77e-f9fcdb6fd8ff"
+    ]
+  },
+  "58930191-0066-4ebf-8064-16b9bda06fe0": {
+    "id": "58930191-0066-4ebf-8064-16b9bda06fe0",
+    "lang": "en",
+    "born": 1627,
+    "died": 1712,
+    "description": "William Edmundson (1627—1712) is generally considered to be both the first and the most distinguished member of Society of Friends in Ireland. He was convinced of the truth in 1653 by the powerful preaching of James Nayler, and spent over 50 years traveling and suffering for its promotion in the earth. Before the Lord he was meek and submissive, but before the enemies of truth he was as bold as a lion, fearlessly “manifesting the truth to every man’s conscience in the sight of God.” His life was fraught with persecutions and prisons, being often reviled and abused for his obedience to Christ. But through all he remained faithful, and was preserved in strength of body and mind to a good old age, tirelessly serving the church and bearing much fruit to the end of his days.",
+    "hasNonDraftDocument": true,
+    "name": "William Edmundson",
+    "gender": "male",
+    "slug": "william-edmundson",
+    "path": "en/william-edmundson",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Edmundson, William",
+    "residences": [
+      {
+        "city": "Little Musgrave",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1627,
+            "end": 1652
+          }
+        ]
+      },
+      {
+        "city": "Mountmellick",
+        "region": "Ireland",
+        "durations": [
+          {
+            "start": 1652,
+            "end": 1712
+          }
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "source": "John Wesley",
+        "text": "I met here with the Journal of William Edmundson, one of their preachers in the last century. If the original equaled the picture, (which I see no reason to doubt,) what an amiable man was this! What faith, love, gentleness, long-suffering! I scruple not to say, “Let my soul be with the soul of William Edmundson!”"
+      },
+      {
+        "source": "John Fothergill",
+        "text": "Here I met with our ancient and honourable friend William Edmundson, whom I had a great desire to see, having a deep and reverent value for him from seeing him before in England, though he knew little or nothing of me. I believed, if I was not what I should be, he would not only observe wherein, but would deal plainly with me."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Mountmellick",
+      "region": "Ireland",
+      "durations": [
+        {
+          "start": 1652,
+          "end": 1712
+        }
+      ]
+    },
+    "added": "2019-03-22T12:49:22.000Z",
+    "documents": [
+      "b61fceff-a434-43f4-9443-342a9137202e"
+    ]
+  },
+  "a0395258-083a-4477-b12c-c78201771596": {
+    "id": "a0395258-083a-4477-b12c-c78201771596",
+    "lang": "en",
+    "born": 1787,
+    "died": 1867,
+    "description": "William Evans (1787-1867) was one of the last spiritually living and weighty ministers amidst a greatly divided and quickly vanishing Society of Friends. His journal is remarkable for its deeply personal style, and its valuable and enlightening comments on Scripture, the church, the operation of grace in the soul, ministry, and many other important subjects. Evans witnessed and stood against the two unhappy divisions that greatly crippled the Society in the first half of the 19th century (the Hicksite and Gurneyite separations), contending earnestly for the original principles and practices of Friends. William and his brother Thomas were the editors and publishers of the original Friends’ Library, as well as an updated version of the four-volume work entitled Piety Promoted.",
+    "hasNonDraftDocument": true,
+    "name": "William Evans",
+    "gender": "male",
+    "slug": "william-evans",
+    "path": "en/william-evans",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Evans, William",
+    "residences": [
+      {
+        "city": "Philadelphia",
+        "region": "Pennsylvania"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "William Evans",
+        "text": "He whom my soul sought above all things suddenly came to His temple, and by His Holy Spirit gave me to see that He alone is the author of that faith which enters within the veil and gives victory over the world, the flesh, and the devil; and that it is not founded merely on what is read, but is really “of the operation of God” on the heart."
+      }
+    ],
+    "relatedDocuments": [
+      {
+        "id": "35cd4c65-ea35-418d-a146-5bc3e5559247",
+        "description": "Hanna Gibbons was an intimate friend of both William and Elizabeth Evans. Her journal frequently mentions “the humble walk and solid deportment” of this godly couple, and several letters to William are published among her papers."
+      }
+    ],
+    "primaryResidence": {
+      "city": "Philadelphia",
+      "region": "Pennsylvania"
+    },
+    "added": "2019-04-28T17:40:18.000Z",
+    "documents": [
+      "bd22a3f4-51e1-45a5-9b65-2f0b21bde039"
+    ]
+  },
+  "6de3c3cc-81c9-4e55-80b0-9f5b8fc6e4a0": {
+    "id": "6de3c3cc-81c9-4e55-80b0-9f5b8fc6e4a0",
+    "lang": "en",
+    "born": 1644,
+    "died": 1718,
+    "description": "William Penn (1644–1718), best known as the founder of the Province of Pennsylvania, was a man courted for his talents and accomplishments, admired for his genius intellect, and beloved for his amiable and humble disposition. He was born into a family of wealth and prominence, educated in the finest schools in London, and as a young man had the road to honor and preferment opened wide before him. But, having tasted something of the true power and purity of Christ in a meeting of the despised people called Quakers, he relinquished his prospects of honor and advantage, renounced the patterns and customs of the world, and lived a life of self-denial as a meek and faithful follower of Jesus Christ.",
+    "hasNonDraftDocument": true,
+    "name": "William Penn",
+    "gender": "male",
+    "slug": "william-penn",
+    "path": "en/william-penn",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Penn, William",
+    "residences": [
+      {
+        "city": "London",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1644,
+            "end": 1682
+          }
+        ]
+      },
+      {
+        "city": "Philadelphia",
+        "region": "Pennsylvania",
+        "durations": [
+          {
+            "start": 1682,
+            "end": 1701
+          }
+        ]
+      },
+      {
+        "city": "Ruscombe",
+        "region": "England",
+        "durations": [
+          {
+            "start": 1701,
+            "end": 1718
+          }
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Thomas Story",
+        "text": "And that which added much to my encouragement was the fatherly care and behavior of the ministers in general, but especially of that great minister of the gospel, and faithful servant of Christ, William Penn; who abounded in wisdom, discretion, prudence, love, and tenderness of affection, with all sincerity, above most in this generation; and indeed I never knew his equal."
+      },
+      {
+        "source": "William Penn",
+        "text": "Come, reader, hearken to me a while; I seek your salvation, that is my design. A Refiner has come near you, His grace has appeared to you, a grace which shows you the world’s lusts, and teaches you to deny them. Receive His leaven, and it will change you. Receive His medicine, and it will cure you. He is as infallible as He is free."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "London",
+      "region": "England",
+      "durations": [
+        {
+          "start": 1644,
+          "end": 1682
+        }
+      ]
+    },
+    "added": "2019-04-15T20:39:17.000Z",
+    "documents": [
+      "53561891-6761-41b8-b5f8-a1ed91e5dde8",
+      "a1b1457c-3678-4659-916d-c7b66e465b7e"
+    ]
+  },
+  "296c52ad-cd0a-4324-a90b-ed47d01eb5e3": {
+    "id": "296c52ad-cd0a-4324-a90b-ed47d01eb5e3",
+    "lang": "en",
+    "born": 1750,
+    "died": 1804,
+    "description": "Though raised by godly parents, William Savery (1750-1804) turned aside from the path of peace and joined in company with vain and careless youth until the twenty-eighth year of his age. But finding his heart pierced by conviction at a meeting of Friends, he was so deeply affected that he quickly and permanently turned his back upon the world and its ways. Committing himself entirely to teachings of the Spirit of Truth, and seeking to live in steady subjection to the cross, he soon felt a call to preach the gospel both on the continent of North America and in many places in Europe. He was also a great advocate for the Native Americans, sometimes accompanying them in their treaties and negotiations with the United States government, doing all in his power to ensure that they were not misled or mistreated.",
+    "hasNonDraftDocument": true,
+    "name": "William Savery",
+    "gender": "male",
+    "slug": "william-savery",
+    "path": "en/william-savery",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Savery, William",
+    "residences": [
+      {
+        "city": "Philadelphia",
+        "region": "Pennsylvania"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "Jonathan Evans",
+        "text": "I was intimately acquainted with William Savery, and esteemed him as a brother beloved. His submission to the power of Divine love in his own heart, by which he was brought out of sin and corruption, and his indefatigable devotion to the cause of Christ, present an instructive example, calculated to invite old and young to diligence and faithfulness in the path of manifested duty."
+      },
+      {
+        "source": "Thomas Scattergood",
+        "text": "William Savery closed the meeting in solemn prayer, in which I united with tears, and perhaps I never felt greater love for him at any time in my life than in this meeting. I spent the evening with him, and took an affectionate farewell; and this was the language of my soul when I left him; O Fountain of mercy, be with my dear fellow servant, and safely waft him over the great deep to his family and friends in peace."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Philadelphia",
+      "region": "Pennsylvania"
+    },
+    "added": "2019-02-14T16:55:00.000Z",
+    "documents": [
+      "25755480-7f1c-4f7f-8900-3f472001fae4"
+    ]
+  },
+  "045aa005-fac5-43ac-91b6-3f6e6ed87498": {
+    "id": "045aa005-fac5-43ac-91b6-3f6e6ed87498",
+    "lang": "en",
+    "born": 1653,
+    "died": 1720,
+    "description": "William Sewel (1653-1720), being a Quaker himself, an honest and meticulous researcher, and an eye-witness to many of the events described in his writings, has long been considered the foremost authority on the early history of the Society of Friends. This lengthy but invaluable publication (first written in Dutch in 1717, and then translated by Sewel into English) tells the truly amazing story of a people who awoke from the lifeless and formal religion of their day, submitted whole-heartedly to the teachings of the Spirit of truth, and so returned to the original life, light, power, and purity of primitive Christianity.",
+    "hasNonDraftDocument": true,
+    "name": "William Sewel",
+    "gender": "male",
+    "slug": "william-sewel",
+    "path": "en/william-sewel",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Sewel, William",
+    "residences": [
+      {
+        "city": "Amsterdam",
+        "region": "Netherlands"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "John Spalding",
+        "text": "About this time I read Sewel’s “History of the Quakers,” which I think removed every objection, and confirmed me in my opinion of the truth of their principles. Their severe sufferings, their patience under them, and honest boldness before kings and rulers, convinced me that nothing but a divine power could have supported them."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "Amsterdam",
+      "region": "Netherlands"
+    },
+    "added": "2018-09-25T19:17:54.000Z",
+    "documents": [
+      "69c5fc26-76e3-4302-964e-ba46d889003b",
+      "2c64c45a-02b0-406d-935f-c90a42daf5a7"
+    ]
+  },
+  "f54c80ae-e5fe-46b1-adda-768c7e287621": {
+    "id": "f54c80ae-e5fe-46b1-adda-768c7e287621",
+    "lang": "en",
+    "born": 1631,
+    "died": 1695,
+    "description": "William Shewen (1631–1695) was an early member of the Society of Friends who lived in London. He does not appear to have been a traveling minister in the society, but was a valuable author and a man known for his deep experience and understanding of both the work of God in the inner man and the attempts of Satan to hinder it. This publication, Meditations and Experiences, is a collection of paragraphs and short treatises, penned throughout Shewen’s life, describing his own openings and experiences of important subjects such as the light of Christ, the kingdom of God, waiting upon the Lord, and overcoming sinful thoughts and imaginations.",
+    "hasNonDraftDocument": true,
+    "name": "William Shewen",
+    "gender": "male",
+    "slug": "william-shewen",
+    "path": "en/william-shewen",
+    "isMale": true,
+    "isFemale": false,
+    "isCompilationsQuasiFriend": false,
+    "alphabeticalName": "Shewen, William",
+    "residences": [
+      {
+        "city": "London",
+        "region": "England"
+      }
+    ],
+    "quotes": [
+      {
+        "source": "William Shewen",
+        "text": "It is a precious thing to know what the cross of Christ is, and how to take it up and make use of it; for indeed, it is no less than the power that crucifies sin, and saves from it. Of this power Christendom is generally ignorant, having set up something else in its stead, and so sin remains alive, uncrucified, and salvation is lacking."
+      }
+    ],
+    "relatedDocuments": [],
+    "primaryResidence": {
+      "city": "London",
+      "region": "England"
+    },
+    "added": "2019-12-17T18:57:27.000Z",
+    "documents": [
+      "5eae7905-1c99-45ba-8ecd-ffd1cba8be47"
+    ]
+  }
+}
