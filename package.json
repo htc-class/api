@@ -9,6 +9,7 @@
     "build": "./node_modules/.bin/netlify functions:build --src ./functions"
   },
   "dependencies": {
-    "netlify-cli": "^2.50.0"
+    "netlify-cli": "^2.50.0",
+    "node-fetch": "^2.6.0"
   }
 }
