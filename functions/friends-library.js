@@ -58,7 +58,7 @@ exports.handler = async function (event) {
 
 const GET_DOWNLOADS = `
   query GetAllDownloads {
-    allDownloads(_size: 5000) {
+    allDownloads(_size: 8000) {
       data {
         _id
         documentId
