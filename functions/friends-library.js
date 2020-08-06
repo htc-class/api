@@ -26,7 +26,7 @@ exports.handler = async function (event) {
     const json = await res.json();
     let downloads = json.data.allDownloads.data;
     downloads.reverse();
-    body = downloads;
+    body = downloads.slice(0, 500);
   }
 
   let friendIdMatch = path.match(/^\/friends\/([0-9a-f-]{36})/);
