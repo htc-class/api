@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "start": "./node_modules/.bin/netlify dev --functions ./functions",
-    "build": "./node_modules/.bin/netlify functions:build --src ./functions"
+    "build": "./node_modules/.bin/netlify functions:build --src ./functions",
+    "deploy": "mkdir -p ./build && npm run build && npx netlify deploy --dir=build --functions=built-functions --prod"
   },
   "dependencies": {
     "netlify-cli": "^2.50.0",
