@@ -8,6 +8,12 @@ export default async function handler(): Promise<void> {
   const docsMap: any = {};
 
   friends.forEach((f) => {
+    if (!f.hasNonDraftDocument || f.alphabeticalName.startsWith(`Doe,`)) {
+      return;
+    }
+    if (f.name === `Benjamin Bangs`) {
+      return;
+    }
     const fr: any = f.toJSON();
     fr.documents = f.documents.map((d) => d.id);
     friendsMap[f.id] = {
@@ -23,6 +29,9 @@ export default async function handler(): Promise<void> {
       url: `https://www.friendslibrary.com/friend/${fr.slug}`,
     };
     f.documents.forEach((d) => {
+      if (!d.hasNonDraftEdition) {
+        return;
+      }
       const docJson = d.toJSON();
       docsMap[d.id] = {
         id: docJson.id,

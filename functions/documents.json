@@ -65,29 +65,6 @@
     ],
     "url": "https://www.friendslibrary.com/ann-crowley/life"
   },
-  "81171796-9b62-46dd-a73e-44cb807e48b0": {
-    "id": "81171796-9b62-46dd-a73e-44cb807e48b0",
-    "title": "Journal of Benjamin Bangs",
-    "description": "TODO",
-    "shortDescription": "TODtO",
-    "tags": [
-      "journal"
-    ],
-    "friendId": "18070c21-4020-497a-a33e-76035af70cdb",
-    "editions": [
-      {
-        "type": "modernized",
-        "isbn": "978-1-64476-224-0",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/benjamin-bangs/journal/modernized/Journal_of_Benjamin_Bangs--modernized--audio.png"
-      },
-      {
-        "type": "original",
-        "isbn": "978-1-64476-225-7",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/benjamin-bangs/journal/original/Journal_of_Benjamin_Bangs--original--audio.png"
-      }
-    ],
-    "url": "https://www.friendslibrary.com/benjamin-bangs/journal"
-  },
   "0e7ca047-14ff-4883-8977-877d36632d11": {
     "id": "0e7ca047-14ff-4883-8977-877d36632d11",
     "title": "The Life and Letters of Catherine Payton",
@@ -707,86 +684,6 @@
     ],
     "url": "https://www.friendslibrary.com/isaac-penington/writings-volume-2"
   },
-  "491af758-8872-4de2-a958-d9059761a661": {
-    "id": "491af758-8872-4de2-a958-d9059761a661",
-    "title": "The Unabridged Works of Isaac Penington -- Volume 1",
-    "description": "Isaac Penington (1616-1679) was the son of a prominent English politician, and the father-in-law of William Penn, founder of Pennsylvania. Though born into a family of wealth and reputation, Penington’s heart was set upon things above from his earliest days. Even as a child, he recognized that the religion of his day stood in the will and understanding of man, in outward practices, duties, and scriptural truths that were professed but not truly possessed. Motivated by an insatiable hunger for truth, he sought the Lord with all his heart and was shown a Christianity that stood in, and flowed out from, the light and life of Jesus Christ reigning in the inner man. The Works of Isaac Penington (in four volumes) available through Friends Library Publishing are his unabridged works, which have not been edited, with the exception of some modernization of archaic words and spellings.",
-    "shortDescription": "Volume One of the Complete Works of Isaac Penington. This edition not not been abridged, edited, or annotated, but is a reproduction of the original work first published in 1681, then again in 1761, 1794, 1863, and lately transcribed and reprinted by Quaker Heritage Press.",
-    "tags": [
-      "spiritual life",
-      "doctrinal",
-      "letters"
-    ],
-    "friendId": "88567a38-31e9-4bf0-8669-61355d8307d1",
-    "editions": [
-      {
-        "type": "original",
-        "isbn": "978-1-64476-043-7",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/isaac-penington/unabridged-works-volume-1/original/Unabridged_Works_of_Isaac_Penington_vol_1--original--audio.png"
-      }
-    ],
-    "url": "https://www.friendslibrary.com/isaac-penington/unabridged-works-volume-1"
-  },
-  "1e2ad3c4-d14e-4277-b2f4-a520de5d5409": {
-    "id": "1e2ad3c4-d14e-4277-b2f4-a520de5d5409",
-    "title": "The Unabridged Works of Isaac Penington -- Volume 2",
-    "description": "Isaac Penington (1616-1679) was the son of a prominent English politician, and the father-in-law of William Penn, founder of Pennsylvania. Though born into a family of wealth and reputation, Penington’s heart was set upon things above from his earliest days. Even as a child, he recognized that the religion of his day stood in the will and understanding of man, in outward practices, duties, and scriptural truths that were professed but not truly possessed. Motivated by an insatiable hunger for truth, he sought the Lord with all his heart and was shown a Christianity that stood in, and flowed out from, the light and life of Jesus Christ reigning in the inner man. The Works of Isaac Penington (in four volumes) available through Friends Library Publishing are his unabridged works, which have not been edited, with the exception of some modernization of archaic words and spellings.",
-    "shortDescription": "Volume Two of the Complete Works of Isaac Penington. This edition not not been abridged, edited, or annotated, but is a reproduction of the original work first published in 1681, then again in 1761, 1794, 1863, and lately transcribed and reprinted by Quaker Heritage Press.",
-    "tags": [
-      "spiritual life",
-      "doctrinal",
-      "letters"
-    ],
-    "friendId": "88567a38-31e9-4bf0-8669-61355d8307d1",
-    "editions": [
-      {
-        "type": "original",
-        "isbn": "978-1-64476-044-4",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/isaac-penington/unabridged-works-volume-2/original/Unabridged_Works_of_Isaac_Penington_vol_2--original--audio.png"
-      }
-    ],
-    "url": "https://www.friendslibrary.com/isaac-penington/unabridged-works-volume-2"
-  },
-  "f2f76200-7cb1-491a-a6d5-e5ecae939d28": {
-    "id": "f2f76200-7cb1-491a-a6d5-e5ecae939d28",
-    "title": "The Unabridged Works of Isaac Penington -- Volume 3",
-    "description": "Isaac Penington (1616-1679) was the son of a prominent English politician, and the father-in-law of William Penn, founder of Pennsylvania. Though born into a family of wealth and reputation, Penington’s heart was set upon things above from his earliest days. Even as a child, he recognized that the religion of his day stood in the will and understanding of man, in outward practices, duties, and scriptural truths that were professed but not truly possessed. Motivated by an insatiable hunger for truth, he sought the Lord with all his heart and was shown a Christianity that stood in, and flowed out from, the light and life of Jesus Christ reigning in the inner man. The Works of Isaac Penington (in four volumes) available through Friends Library Publishing are his unabridged works, which have not been edited, with the exception of some modernization of archaic words and spellings.",
-    "shortDescription": "Volume Three of the Complete Works of Isaac Penington. This edition not not been abridged, edited, or annotated, but is a reproduction of the original work first published in 1681, then again in 1761, 1794, 1863, and lately transcribed and reprinted by Quaker Heritage Press.",
-    "tags": [
-      "spiritual life",
-      "doctrinal",
-      "letters"
-    ],
-    "friendId": "88567a38-31e9-4bf0-8669-61355d8307d1",
-    "editions": [
-      {
-        "type": "original",
-        "isbn": "978-1-64476-045-1",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/isaac-penington/unabridged-works-volume-3/original/Unabridged_Works_of_Isaac_Penington_vol_3--original--audio.png"
-      }
-    ],
-    "url": "https://www.friendslibrary.com/isaac-penington/unabridged-works-volume-3"
-  },
-  "7727b95b-960f-491c-ac61-cf876d10b278": {
-    "id": "7727b95b-960f-491c-ac61-cf876d10b278",
-    "title": "The Unabridged Works of Isaac Penington -- Volume 4",
-    "description": "Isaac Penington (1616-1679) was the son of a prominent English politician, and the father-in-law of William Penn, founder of Pennsylvania. Though born into a family of wealth and reputation, Penington’s heart was set upon things above from his earliest days. Even as a child, he recognized that the religion of his day stood in the will and understanding of man, in outward practices, duties, and scriptural truths that were professed but not truly possessed. Motivated by an insatiable hunger for truth, he sought the Lord with all his heart and was shown a Christianity that stood in, and flowed out from, the light and life of Jesus Christ reigning in the inner man. The Works of Isaac Penington (in four volumes) available through Friends Library Publishing are his unabridged works, which have not been edited, with the exception of some modernization of archaic words and spellings.",
-    "shortDescription": "Volume Four of the Complete Works of Isaac Penington. This edition not not been abridged, edited, or annotated, but is a reproduction of the original work first published in 1681, then again in 1761, 1794, 1863, and lately transcribed and reprinted by Quaker Heritage Press.",
-    "tags": [
-      "spiritual life",
-      "doctrinal",
-      "letters"
-    ],
-    "friendId": "88567a38-31e9-4bf0-8669-61355d8307d1",
-    "editions": [
-      {
-        "type": "original",
-        "isbn": "978-1-64476-046-8",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/isaac-penington/unabridged-works-volume-4/original/Unabridged_Works_of_Isaac_Penington_vol_4--original--audio.png"
-      }
-    ],
-    "url": "https://www.friendslibrary.com/isaac-penington/unabridged-works-volume-4"
-  },
   "d0d15232-db51-48fc-a8ed-5e0b206f9a3f": {
     "id": "d0d15232-db51-48fc-a8ed-5e0b206f9a3f",
     "title": "The Journal of James Dickinson",
@@ -871,39 +768,11 @@
     ],
     "url": "https://www.friendslibrary.com/james-parnell/life"
   },
-  "d3f5e306-433f-40e5-ab8c-68f9c0486713": {
-    "id": "d3f5e306-433f-40e5-ab8c-68f9c0486713",
-    "title": "Sweet Book",
-    "description": "TODO",
-    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "tags": [
-      "journal"
-    ],
-    "friendId": "3db2b190-3b5d-4f06-990e-65273b6ce896",
-    "editions": [
-      {
-        "type": "updated",
-        "isbn": "978-1-64476-999-9",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/jane-doe/sweet-book/updated/Sweet_Book--updated--audio.png"
-      },
-      {
-        "type": "modernized",
-        "isbn": "978-1-64476-999-9",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/jane-doe/sweet-book/modernized/Sweet_Book--modernized--audio.png"
-      },
-      {
-        "type": "original",
-        "isbn": "978-1-64476-999-9",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/jane-doe/sweet-book/original/Sweet_Book--original--audio.png"
-      }
-    ],
-    "url": "https://www.friendslibrary.com/jane-doe/sweet-book"
-  },
   "0f940360-9aaf-41d1-9601-e8ce60cfd4d7": {
     "id": "0f940360-9aaf-41d1-9601-e8ce60cfd4d7",
     "title": "The Life and Experiences of Jane Pearson",
-    "description": "The story of Jane Pearson (1735–1816) is both heartbreaking and deeply inspiring. Her life was fraught with inward and outward trials beyond description. For fourteen years she wrestled with a variety of inward enemies as she sought to truly know and be conformed to the Beloved of her soul. And when at last she came to a measure of peace and stability in the Truth, she was then made to suffer the loss of her husband and seven children to a variety of illnesses. But the more she lost of the world, the more she seemed to gain of Christ, and her experiences of God’s power and mercy in her latter years are indescribably beautiful.",
-    "shortDescription": "The Journal of Jane Pearson, giving and account of her early dedication to the Lord, her uncommon trials (both inward and outward), her labors as a minister in the Society of Friends, and her extraordinary religious experiences in later years.",
+    "description": "Jane Pearson (1735-1816) was a minister in the Society of Friends whose life, in many ways, resembled that of Job. About a year after her marriage, having begun in earnest to take up her cross and follow the Lord, she found that her “false rest was broken,” and for a period of fourteen years was made to wade through inward troubles and afflictions that were “far beyond her power of description.” And when there was at last an abatement of inward trials, then outward troubles poured in like a flood, and over the course of some years, she lost her husband and seven children to a variety of illnesses. But according to Christ’s promise, the more she gave up of this world and its treasures, the more she gained of eternal riches, and her experiences of God’s power and mercy in her latter years were truly a hundredfold more than all she had lost.",
+    "shortDescription": "The Life and Experiences of Jane Pearson, giving and account of her early dedication to the Lord, her uncommon trials (both inward and outward), her labors as a minister in the Society of Friends, and her extraordinary religious experiences in later years.",
     "tags": [
       "journal"
     ],
@@ -912,26 +781,26 @@
       {
         "type": "updated",
         "isbn": "978-1-64476-054-3",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/jane-pearson/journal/updated/Life_and_Experiences_of_Jane_Pearson--updated--audio.png"
+        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/jane-pearson/life/updated/Life_and_Experiences_of_Jane_Pearson--updated--audio.png"
       },
       {
         "type": "modernized",
         "isbn": "978-1-64476-053-6",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/jane-pearson/journal/modernized/Life_and_Experiences_of_Jane_Pearson--modernized--audio.png"
+        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/jane-pearson/life/modernized/Life_and_Experiences_of_Jane_Pearson--modernized--audio.png"
       },
       {
         "type": "original",
         "isbn": "978-1-64476-052-9",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/jane-pearson/journal/original/Life_and_Experiences_of_Jane_Pearson--original--audio.png"
+        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/jane-pearson/life/original/Life_and_Experiences_of_Jane_Pearson--original--audio.png"
       }
     ],
-    "url": "https://www.friendslibrary.com/jane-pearson/journal"
+    "url": "https://www.friendslibrary.com/jane-pearson/life"
   },
   "3b301c59-f8dd-4029-b650-644b737a70ed": {
     "id": "3b301c59-f8dd-4029-b650-644b737a70ed",
     "title": "Selection from the Life of Jane Pearson",
-    "description": "TODO",
-    "shortDescription": "TODO",
+    "description": "Jane Pearson (1735-1816) was a minister in the Society of Friends whose life, in many ways, resembled that of Job. About a year after her marriage, having begun in earnest to take up her cross and follow the Lord, she found that her “false rest was broken,” and for a period of fourteen years was made to wade through inward troubles and afflictions that were “far beyond her power of description.” And when there was at last an abatement of inward trials, then outward troubles poured in like a flood, and over the course of some years, she lost her husband and seven children to a variety of illnesses. But according to Christ’s promise, the more she gave up of this world and its treasures, the more she gained of eternal riches, and her experiences of God’s power and mercy in her latter years were truly a hundredfold more than all she had lost.",
+    "shortDescription": "A selection from The Life and Experiences of Jane Pearson, giving and account of her early dedication to the Lord, her uncommon trials (both inward and outward), her labors as a minister in the Society of Friends, and her extraordinary religious experiences in later years.",
     "tags": [
       "journal"
     ],
@@ -1169,34 +1038,6 @@
       }
     ],
     "url": "https://www.friendslibrary.com/john-crook/life"
-  },
-  "f493c685-d002-481f-869e-859fbd803225": {
-    "id": "f493c685-d002-481f-869e-859fbd803225",
-    "title": "Rad Book",
-    "description": "TODO",
-    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "tags": [
-      "journal"
-    ],
-    "friendId": "817da290-5ae9-4dce-abd7-73a23ef1e1b3",
-    "editions": [
-      {
-        "type": "updated",
-        "isbn": "978-1-64476-999-9",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/john-doe/rad-book/updated/Rad_Book--updated--audio.png"
-      },
-      {
-        "type": "modernized",
-        "isbn": "978-1-64476-999-9",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/john-doe/rad-book/modernized/Rad_Book--modernized--audio.png"
-      },
-      {
-        "type": "original",
-        "isbn": "978-1-64476-999-9",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/john-doe/rad-book/original/Rad_Book--original--audio.png"
-      }
-    ],
-    "url": "https://www.friendslibrary.com/john-doe/rad-book"
   },
   "b74bd655-8907-4484-a3bd-a658b3267dea": {
     "id": "b74bd655-8907-4484-a3bd-a658b3267dea",
@@ -2007,24 +1848,6 @@
     ],
     "url": "https://www.friendslibrary.com/robert-barclay/saved-to-the-uttermost"
   },
-  "a8da908c-c9b4-4583-a2a3-ee460a90a4b9": {
-    "id": "a8da908c-c9b4-4583-a2a3-ee460a90a4b9",
-    "title": "Apology for the True Christian Divinity",
-    "description": "Robert Barclay (1648–1690) was born into opulence and educated in some of the finest schools of the time, where his natural genius gained the admiration of both teachers and peers. But at seventeen years of age, upon entering a meeting of the people called Quakers, he said, “I felt a secret power among them which touched my heart.” And as he abode under the powerful operations of grace, he “came to receive and bear witness of the Truth,” not being convinced “by strength of argument, or by a particular discussion of each doctrine, but by being secretly reached by Life.” Barclay’s Apology for the True Christian Divinity was first published in 1675, and came to be considered the definitive exposition and defense of Quaker principles for the next 200 years.",
-    "shortDescription": "The Apology for the True Christian Divinity is perhaps the most well-known of all Friends publications, and has been considered the definitive exposition and defense of Quaker principles since the rise of their Society.",
-    "tags": [
-      "doctrinal"
-    ],
-    "friendId": "105b22b5-0d97-422d-821f-becefa9482a0",
-    "editions": [
-      {
-        "type": "modernized",
-        "isbn": "978-1-64476-116-8",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/robert-barclay/apology/modernized/Apology--modernized--audio.png"
-      }
-    ],
-    "url": "https://www.friendslibrary.com/robert-barclay/apology"
-  },
   "fea5c7ff-bd6f-4c46-b928-c3b4fb1a04e6": {
     "id": "fea5c7ff-bd6f-4c46-b928-c3b4fb1a04e6",
     "title": "Considerations upon Recreation and Entertainment",
@@ -2042,30 +1865,6 @@
       }
     ],
     "url": "https://www.friendslibrary.com/robert-barclay/recreation-entertainment"
-  },
-  "2460c682-7d5d-408b-b059-e05e28a19aea": {
-    "id": "2460c682-7d5d-408b-b059-e05e28a19aea",
-    "title": "Journal of Ruth Follows",
-    "description": "TODO",
-    "shortDescription": "TODO",
-    "tags": [
-      "journal",
-      "letters"
-    ],
-    "friendId": "dae9f1bf-455c-4805-adee-aa510ff787c2",
-    "editions": [
-      {
-        "type": "modernized",
-        "isbn": "978-1-64476-222-6",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/ruth-follows/journal/modernized/Journal_of_Ruth_Follows--modernized--audio.png"
-      },
-      {
-        "type": "original",
-        "isbn": "978-1-64476-223-3",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/ruth-follows/journal/original/Journal_of_Ruth_Follows--original--audio.png"
-      }
-    ],
-    "url": "https://www.friendslibrary.com/ruth-follows/journal"
   },
   "51303b80-b6c1-4d45-a740-bf3eaf0767e4": {
     "id": "51303b80-b6c1-4d45-a740-bf3eaf0767e4",
@@ -2714,25 +2513,6 @@
       }
     ],
     "url": "https://www.friendslibrary.com/william-sewel/history-of-quakers"
-  },
-  "2c64c45a-02b0-406d-935f-c90a42daf5a7": {
-    "id": "2c64c45a-02b0-406d-935f-c90a42daf5a7",
-    "title": "The Sufferings of Catharine Evans and Sarah Cheevers",
-    "description": "Catherine Evans (1618-1692) and Sarah Cheevers (1608-1664) were early ministers in the Society of Friends who embarked together on a missionary journey, intending for Alexandria, Egypt. After enduring several storms, their ship stopped at Malta, an island in the Mediterranean then under the dominion of the Catholic Church. Evans and Cheevers were arrested on the island for preaching and handing out books and were placed under house arrest. After three months, they were moved to a local prison where they endured nearly four years of cruel treatment at the hands of the Inquisition in attempting to force their conversion to Catholicism.",
-    "shortDescription": "A selection from William Sewel’s History of the Christian People called Quakers, giving an account of the sufferings, faithfulness, and Christian experiences of Catherine Evans and Sarah Cheevers, during their four years of imprisonment under the Catholic Inquisition.",
-    "tags": [
-      "history",
-      "letters"
-    ],
-    "friendId": "045aa005-fac5-43ac-91b6-3f6e6ed87498",
-    "editions": [
-      {
-        "type": "modernized",
-        "isbn": "978-1-64476-160-1",
-        "imageUrl": "http://flp-assets.nyc3.digitaloceanspaces.com/en/william-sewel/sufferings-of-catharine-evans-sarah-cheevers/modernized/Sufferings_of_Catharine_Evans_and_Sarah_Cheevers--modernized--audio.png"
-      }
-    ],
-    "url": "https://www.friendslibrary.com/william-sewel/sufferings-of-catharine-evans-sarah-cheevers"
   },
   "5eae7905-1c99-45ba-8ecd-ffd1cba8be47": {
     "id": "5eae7905-1c99-45ba-8ecd-ffd1cba8be47",

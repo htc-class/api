@@ -56,23 +56,6 @@
     ],
     "url": "https://www.friendslibrary.com/friend/ann-crowley"
   },
-  "18070c21-4020-497a-a33e-76035af70cdb": {
-    "id": "18070c21-4020-497a-a33e-76035af70cdb",
-    "name": "Benjamin Bangs",
-    "alphabeticalName": "Bangs, Benjamin",
-    "gender": "female",
-    "born": 1652,
-    "died": 1741,
-    "description": "TODO",
-    "residence": {
-      "city": "Norwich",
-      "region": "England"
-    },
-    "documents": [
-      "81171796-9b62-46dd-a73e-44cb807e48b0"
-    ],
-    "url": "https://www.friendslibrary.com/friend/benjamin-bangs"
-  },
   "d0348949-78b6-4c14-932f-93e6d7825607": {
     "id": "d0348949-78b6-4c14-932f-93e6d7825607",
     "name": "Catherine Payton",
@@ -528,23 +511,6 @@
     ],
     "url": "https://www.friendslibrary.com/friend/james-parnell"
   },
-  "3db2b190-3b5d-4f06-990e-65273b6ce896": {
-    "id": "3db2b190-3b5d-4f06-990e-65273b6ce896",
-    "name": "Jane Doe",
-    "alphabeticalName": "Doe, Jane",
-    "gender": "female",
-    "born": 1650,
-    "died": 1700,
-    "description": "TODO",
-    "residence": {
-      "city": "London",
-      "region": "England"
-    },
-    "documents": [
-      "d3f5e306-433f-40e5-ab8c-68f9c0486713"
-    ],
-    "url": "https://www.friendslibrary.com/friend/jane-doe"
-  },
   "565bd2bc-7a25-4ca8-8b95-5e2fa5ee3142": {
     "id": "565bd2bc-7a25-4ca8-8b95-5e2fa5ee3142",
     "name": "Jane Pearson",
@@ -552,7 +518,7 @@
     "gender": "female",
     "born": 1734,
     "died": 1816,
-    "description": "The story of Jane Pearson (1735–1816) is both heartbreaking and deeply inspiring. Her life was fraught with inward and outward trials beyond description. For fourteen years she wrestled with a variety of inward enemies as she sought to truly know and be conformed to the Beloved of her soul. And when at last she came to a measure of peace and stability in the Truth, she was then made to suffer the loss of her husband and seven children to a variety of illnesses. But the more she lost of the world, the more she seemed to gain of Christ, and her experiences of God’s power and mercy in her latter years are indescribably beautiful.",
+    "description": "Jane Pearson (1735-1816) was a minister in the Society of Friends whose life, in many ways, resembled that of Job. About a year after her marriage, having begun in earnest to take up her cross and follow the Lord, she found that her “false rest was broken,” and for a period of fourteen years was made to wade through inward troubles and afflictions that were “far beyond her power of description.” And when there was at last an abatement of inward trials, then outward troubles poured in like a flood, and over the course of some years, she lost her husband and seven children to a variety of illnesses. But according to Christ’s promise, the more she gave up of this world and its treasures, the more she gained of eternal riches, and her experiences of God’s power and mercy in her latter years were truly a hundredfold more than all she had lost.",
     "residence": {
       "city": "Carlisle",
       "region": "England",
@@ -697,23 +663,6 @@
       "cf6f05e2-e5c9-4ec3-8096-d283f3e4c020"
     ],
     "url": "https://www.friendslibrary.com/friend/john-crook"
-  },
-  "817da290-5ae9-4dce-abd7-73a23ef1e1b3": {
-    "id": "817da290-5ae9-4dce-abd7-73a23ef1e1b3",
-    "name": "John Doe",
-    "alphabeticalName": "Doe, John",
-    "gender": "male",
-    "born": 1650,
-    "died": 1700,
-    "description": "TODO",
-    "residence": {
-      "city": "London",
-      "region": "England"
-    },
-    "documents": [
-      "f493c685-d002-481f-869e-859fbd803225"
-    ],
-    "url": "https://www.friendslibrary.com/friend/john-doe"
   },
   "a71d0dd4-fed8-42a9-a5fd-8c3890701dee": {
     "id": "a71d0dd4-fed8-42a9-a5fd-8c3890701dee",
@@ -1242,23 +1191,6 @@
       "fea5c7ff-bd6f-4c46-b928-c3b4fb1a04e6"
     ],
     "url": "https://www.friendslibrary.com/friend/robert-barclay"
-  },
-  "dae9f1bf-455c-4805-adee-aa510ff787c2": {
-    "id": "dae9f1bf-455c-4805-adee-aa510ff787c2",
-    "name": "Ruth Follows",
-    "alphabeticalName": "Follows, Ruth",
-    "gender": "female",
-    "born": 1718,
-    "died": 1809,
-    "description": "TODO",
-    "residence": {
-      "city": "Castle Donington",
-      "region": "England"
-    },
-    "documents": [
-      "2460c682-7d5d-408b-b059-e05e28a19aea"
-    ],
-    "url": "https://www.friendslibrary.com/friend/ruth-follows"
   },
   "7f083eb6-674f-4cc8-843b-8d4edd15a345": {
     "id": "7f083eb6-674f-4cc8-843b-8d4edd15a345",
